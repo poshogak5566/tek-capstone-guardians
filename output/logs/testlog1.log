@@ -1,0 +1,1403 @@
+2023-07-28 19:10:04,594 [main] INFO logger_file - TekSchool logo is displayed
+2023-07-28 19:10:04,859 [main] INFO logger_file - User clicked on signin butten
+2023-07-28 19:10:05,254 [main] INFO logger_file - User entered email and password
+2023-07-28 19:10:05,389 [main] INFO logger_file - User clicked on login button
+2023-07-28 19:59:33,333 [main] INFO logger_file - TekSchool logo is displayed
+2023-07-28 19:59:33,592 [main] INFO logger_file - User clicked on signin butten
+2023-07-28 19:59:33,731 [main] INFO logger_file - New account buttun is clicked
+2023-07-28 19:59:34,314 [main] INFO logger_file - User filled the signUp information
+2023-07-28 19:59:34,459 [main] INFO logger_file - Uer clicked on signup buttu
+2023-07-28 19:59:34,843 [main] INFO logger_file - User is into account page
+2023-07-28 20:00:25,390 [main] INFO logger_file - TekSchool logo is displayed
+2023-07-28 20:00:25,647 [main] INFO logger_file - User clicked on signin butten
+2023-07-28 20:00:25,990 [main] INFO logger_file - User entered email and password
+2023-07-28 20:00:26,100 [main] INFO logger_file - User clicked on login button
+2023-07-28 20:00:26,566 [main] INFO logger_file - User is in account page
+2023-07-28 20:39:19,530 [main] INFO logger_file - TekSchool logo is displayed
+2023-07-28 20:39:19,867 [main] INFO logger_file - All sections clickd
+2023-07-28 20:39:20,003 [main] INFO logger_file - Options are present in sidebar
+2023-07-28 20:39:20,135 [main] INFO logger_file - Options are present in sidebar
+2023-07-28 20:39:20,377 [main] INFO logger_file - Options are present in sidebar
+2023-07-28 20:39:20,439 [main] INFO logger_file - Options are present in sidebar
+2023-07-28 20:39:20,495 [main] INFO logger_file - Options are present in sidebar
+2023-07-28 20:42:44,479 [main] INFO logger_file - TekSchool logo is displayed
+2023-07-28 20:42:44,909 [main] INFO logger_file - All sections clickd
+2023-07-28 20:42:45,065 [main] INFO logger_file - Electronics is present
+2023-07-28 20:42:45,133 [main] INFO logger_file - Computers is present
+2023-07-28 20:42:45,268 [main] INFO logger_file - Smart Home is present
+2023-07-28 20:42:45,556 [main] INFO logger_file - Sports is present
+2023-07-28 20:42:45,631 [main] INFO logger_file - Automative is present
+2023-07-31 13:34:08,875 [main] INFO logger_file - TekSchool logo is displayed
+2023-07-31 13:34:09,051 [main] INFO logger_file - User clicked on signin butten
+2023-07-31 13:34:09,570 [main] INFO logger_file - User entered email and password
+2023-07-31 13:34:09,667 [main] INFO logger_file - User clicked on login button
+2023-07-31 13:34:10,140 [main] INFO logger_file - User is in account page
+2023-08-01 13:43:47,117 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-01 13:43:47,258 [main] INFO logger_file - All options clickd
+2023-08-01 13:43:48,236 [main] INFO logger_file - The option TV & Video is present
+2023-08-01 13:43:48,304 [main] INFO logger_file - The option Video Games is present
+2023-08-01 13:43:51,452 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-01 13:43:51,621 [main] INFO logger_file - All options clickd
+2023-08-01 13:43:51,915 [main] INFO logger_file - The option Accessories is present
+2023-08-01 13:43:52,004 [main] INFO logger_file - The option Networking is present
+2023-08-01 13:43:55,203 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-01 13:43:55,380 [main] INFO logger_file - All options clickd
+2023-08-01 13:43:55,677 [main] INFO logger_file - The option Smart Home Lightning is present
+2023-08-01 13:43:55,782 [main] INFO logger_file - The option Plugs and Outlets is present
+2023-08-01 13:43:59,166 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-01 13:43:59,319 [main] INFO logger_file - All options clickd
+2023-08-01 13:43:59,649 [main] INFO logger_file - The option Athletic Clothing is present
+2023-08-01 13:43:59,727 [main] INFO logger_file - The option Exercise & Fitness is present
+2023-08-01 13:44:02,973 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-01 13:44:03,148 [main] INFO logger_file - All options clickd
+2023-08-02 13:39:33,288 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 13:39:33,437 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 13:39:33,754 [main] INFO logger_file - User entered email and password
+2023-08-02 13:39:33,847 [main] INFO logger_file - User clicked on login button
+2023-08-02 13:45:26,364 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 13:45:26,535 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 13:45:26,806 [main] INFO logger_file - User entered email and password
+2023-08-02 13:45:26,900 [main] INFO logger_file - User clicked on login button
+2023-08-02 13:45:27,650 [main] INFO logger_file - User is in account page
+2023-08-02 14:07:52,741 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 14:07:52,883 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 14:07:53,158 [main] INFO logger_file - User entered email and password
+2023-08-02 14:07:53,249 [main] INFO logger_file - User clicked on login button
+2023-08-02 14:07:53,637 [main] INFO logger_file - User is in account page
+2023-08-02 14:07:54,049 [main] INFO logger_file - Name was entered successfully
+2023-08-02 14:07:54,243 [main] INFO logger_file - Phone number was entered successfully
+2023-08-02 14:07:54,330 [main] INFO logger_file - Update butten was clicked
+2023-08-02 14:09:19,654 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 14:09:19,807 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 14:09:20,090 [main] INFO logger_file - User entered email and password
+2023-08-02 14:09:20,188 [main] INFO logger_file - User clicked on login button
+2023-08-02 14:09:20,923 [main] INFO logger_file - User is in account page
+2023-08-02 14:09:21,334 [main] INFO logger_file - Name was entered successfully
+2023-08-02 14:09:21,572 [main] INFO logger_file - Phone number was entered successfully
+2023-08-02 14:16:46,817 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 14:16:46,966 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 14:16:47,244 [main] INFO logger_file - User entered email and password
+2023-08-02 14:16:47,336 [main] INFO logger_file - User clicked on login button
+2023-08-02 14:16:47,731 [main] INFO logger_file - User is in account page
+2023-08-02 14:16:48,111 [main] INFO logger_file - Name was entered successfully
+2023-08-02 14:16:48,305 [main] INFO logger_file - Phone number was entered successfully
+2023-08-02 14:23:07,117 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 14:23:07,263 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 14:23:07,538 [main] INFO logger_file - User entered email and password
+2023-08-02 14:23:07,628 [main] INFO logger_file - User clicked on login button
+2023-08-02 14:23:08,015 [main] INFO logger_file - User is in account page
+2023-08-02 14:23:08,398 [main] INFO logger_file - Name was entered successfully
+2023-08-02 14:23:08,593 [main] INFO logger_file - Phone number was entered successfully
+2023-08-02 14:26:54,504 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 14:26:54,653 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 14:26:54,936 [main] INFO logger_file - User entered email and password
+2023-08-02 14:26:55,031 [main] INFO logger_file - User clicked on login button
+2023-08-02 14:27:56,277 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 14:27:56,529 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 14:27:56,832 [main] INFO logger_file - User entered email and password
+2023-08-02 14:27:56,926 [main] INFO logger_file - User clicked on login button
+2023-08-02 14:34:36,833 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 14:34:36,977 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 14:34:37,295 [main] INFO logger_file - User entered email and password
+2023-08-02 14:34:37,403 [main] INFO logger_file - User clicked on login button
+2023-08-02 14:35:03,959 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 14:35:04,104 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 14:35:04,226 [main] INFO logger_file - New account buttun is clicked
+2023-08-02 14:35:04,708 [main] INFO logger_file - User filled the signUp information
+2023-08-02 14:35:04,793 [main] INFO logger_file - Uer clicked on signup buttu
+2023-08-02 14:35:05,205 [main] INFO logger_file - User is into account page
+2023-08-02 14:37:40,363 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 14:37:40,504 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 14:37:40,816 [main] INFO logger_file - User entered email and password
+2023-08-02 14:37:40,906 [main] INFO logger_file - User clicked on login button
+2023-08-02 14:37:41,286 [main] INFO logger_file - User is in account page
+2023-08-02 14:37:41,739 [main] INFO logger_file - Name was entered successfully
+2023-08-02 14:37:41,943 [main] INFO logger_file - Phone number was entered successfully
+2023-08-02 14:37:42,040 [main] INFO logger_file - Update butten was clicked
+2023-08-02 14:37:42,836 [main] INFO logger_file - Account information was updated successfully
+2023-08-02 14:38:39,993 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 14:38:40,177 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 14:38:40,475 [main] INFO logger_file - User entered email and password
+2023-08-02 14:38:40,572 [main] INFO logger_file - User clicked on login button
+2023-08-02 14:38:40,967 [main] INFO logger_file - User is in account page
+2023-08-02 14:39:08,052 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 14:39:08,238 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 14:39:08,358 [main] INFO logger_file - New account buttun is clicked
+2023-08-02 14:39:08,837 [main] INFO logger_file - User filled the signUp information
+2023-08-02 14:39:08,927 [main] INFO logger_file - Uer clicked on signup buttu
+2023-08-02 17:57:07,894 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 17:57:08,173 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 17:57:08,344 [main] INFO logger_file - New account buttun is clicked
+2023-08-02 17:57:09,115 [main] INFO logger_file - User filled the signUp information
+2023-08-02 17:57:09,259 [main] INFO logger_file - Uer clicked on signup buttu
+2023-08-02 19:02:27,911 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 19:02:28,144 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 19:02:28,552 [main] INFO logger_file - User entered email and password
+2023-08-02 19:02:28,685 [main] INFO logger_file - User clicked on login button
+2023-08-02 19:02:29,126 [main] INFO logger_file - User is in account page
+2023-08-02 19:02:29,648 [main] INFO logger_file - Name was entered successfully
+2023-08-02 19:02:29,904 [main] INFO logger_file - Phone number was entered successfully
+2023-08-02 19:28:33,593 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 19:28:33,983 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 19:28:34,517 [main] INFO logger_file - User entered email and password
+2023-08-02 19:28:34,691 [main] INFO logger_file - User clicked on login button
+2023-08-02 19:28:35,188 [main] INFO logger_file - User is in account page
+2023-08-02 19:28:35,822 [main] INFO logger_file - Name was entered successfully
+2023-08-02 19:28:36,132 [main] INFO logger_file - Phone number was entered successfully
+2023-08-02 19:28:36,314 [main] INFO logger_file - Update butten was clicked
+2023-08-02 19:29:32,217 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 19:29:32,651 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 19:29:33,163 [main] INFO logger_file - User entered email and password
+2023-08-02 19:29:33,322 [main] INFO logger_file - User clicked on login button
+2023-08-02 19:29:33,786 [main] INFO logger_file - User is in account page
+2023-08-02 19:29:34,401 [main] INFO logger_file - Name was entered successfully
+2023-08-02 19:29:34,754 [main] INFO logger_file - Phone number was entered successfully
+2023-08-02 19:29:34,908 [main] INFO logger_file - Update butten was clicked
+2023-08-02 19:29:35,714 [main] INFO logger_file - Account information was updated successfully
+2023-08-02 19:35:32,368 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-02 19:35:32,854 [main] INFO logger_file - User clicked on signin butten
+2023-08-02 19:35:33,078 [main] INFO logger_file - New account buttun is clicked
+2023-08-02 19:35:33,912 [main] INFO logger_file - User filled the signUp information
+2023-08-02 19:35:34,088 [main] INFO logger_file - Uer clicked on signup buttu
+2023-08-02 19:35:34,691 [main] INFO logger_file - User is into account page
+2023-08-03 10:28:03,502 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-03 10:28:03,642 [main] INFO logger_file - User clicked on signin butten
+2023-08-03 10:28:03,776 [main] INFO logger_file - New account buttun is clicked
+2023-08-03 10:28:04,337 [main] INFO logger_file - User filled the signUp information
+2023-08-03 10:28:04,456 [main] INFO logger_file - Uer clicked on signup buttu
+2023-08-03 10:55:51,663 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-03 10:55:51,808 [main] INFO logger_file - User clicked on signin butten
+2023-08-03 10:55:51,909 [main] INFO logger_file - New account buttun is clicked
+2023-08-03 10:55:52,370 [main] INFO logger_file - User filled the signUp information
+2023-08-03 10:55:52,489 [main] INFO logger_file - Uer clicked on signup buttu
+2023-08-03 10:58:13,916 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-03 10:58:14,053 [main] INFO logger_file - User clicked on signin butten
+2023-08-03 10:58:14,351 [main] INFO logger_file - User entered email and password
+2023-08-03 10:58:14,441 [main] INFO logger_file - User clicked on login button
+2023-08-03 10:58:14,820 [main] INFO logger_file - User is in account page
+2023-08-03 10:58:15,200 [main] INFO logger_file - Name was entered successfully
+2023-08-03 10:58:15,406 [main] INFO logger_file - Phone number was entered successfully
+2023-08-03 10:59:34,305 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-03 10:59:34,447 [main] INFO logger_file - User clicked on signin butten
+2023-08-03 10:59:34,756 [main] INFO logger_file - User entered email and password
+2023-08-03 10:59:34,856 [main] INFO logger_file - User clicked on login button
+2023-08-03 10:59:35,269 [main] INFO logger_file - User is in account page
+2023-08-03 10:59:35,619 [main] INFO logger_file - Name was entered successfully
+2023-08-03 10:59:35,829 [main] INFO logger_file - Phone number was entered successfully
+2023-08-03 11:16:33,360 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-03 11:16:33,586 [main] INFO logger_file - User clicked on signin butten
+2023-08-03 11:16:34,224 [main] INFO logger_file - User entered email and password
+2023-08-03 11:16:34,470 [main] INFO logger_file - User clicked on login button
+2023-08-03 11:16:35,216 [main] INFO logger_file - User is in account page
+2023-08-03 11:16:35,851 [main] INFO logger_file - Name was entered successfully
+2023-08-03 11:16:36,081 [main] INFO logger_file - Phone number was entered successfully
+2023-08-03 11:24:51,829 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-03 11:24:51,987 [main] INFO logger_file - User clicked on signin butten
+2023-08-03 11:24:52,308 [main] INFO logger_file - User entered email and password
+2023-08-03 11:24:52,395 [main] INFO logger_file - User clicked on login button
+2023-08-03 11:24:52,821 [main] INFO logger_file - User is in account page
+2023-08-03 11:24:53,195 [main] INFO logger_file - Name was entered successfully
+2023-08-03 11:24:53,400 [main] INFO logger_file - Phone number was entered successfully
+2023-08-03 11:28:33,121 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-03 11:28:33,265 [main] INFO logger_file - User clicked on signin butten
+2023-08-03 11:28:33,567 [main] INFO logger_file - User entered email and password
+2023-08-03 11:28:33,656 [main] INFO logger_file - User clicked on login button
+2023-08-03 11:28:34,062 [main] INFO logger_file - User is in account page
+2023-08-03 11:28:34,424 [main] INFO logger_file - Name was entered successfully
+2023-08-03 11:28:34,624 [main] INFO logger_file - Phone number was entered successfully
+2023-08-03 11:31:54,410 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-03 11:31:54,542 [main] INFO logger_file - User clicked on signin butten
+2023-08-03 11:31:54,850 [main] INFO logger_file - User entered email and password
+2023-08-03 11:31:54,934 [main] INFO logger_file - User clicked on login button
+2023-08-03 11:31:55,321 [main] INFO logger_file - User is in account page
+2023-08-03 11:31:55,682 [main] INFO logger_file - Name was entered successfully
+2023-08-03 11:31:55,883 [main] INFO logger_file - Phone number was entered successfully
+2023-08-03 11:31:55,977 [main] INFO logger_file - Update butten was clicked
+2023-08-03 11:32:52,981 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-03 11:32:53,112 [main] INFO logger_file - User clicked on signin butten
+2023-08-03 11:32:53,413 [main] INFO logger_file - User entered email and password
+2023-08-03 11:32:53,503 [main] INFO logger_file - User clicked on login button
+2023-08-03 11:32:53,869 [main] INFO logger_file - User is in account page
+2023-08-03 11:32:54,250 [main] INFO logger_file - Name was entered successfully
+2023-08-03 11:32:54,443 [main] INFO logger_file - Phone number was entered successfully
+2023-08-03 11:32:54,537 [main] INFO logger_file - Update butten was clicked
+2023-08-03 11:32:55,319 [main] INFO logger_file - Account information was updated successfully
+2023-08-11 09:43:48,676 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 09:43:48,819 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 09:43:49,117 [main] INFO logger_file - User entered email and password
+2023-08-11 09:43:49,212 [main] INFO logger_file - User clicked on login button
+2023-08-11 09:43:49,601 [main] INFO logger_file - User is in account page
+2023-08-11 09:43:49,898 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-08-11 09:43:50,461 [main] INFO logger_file - Payment Information was added successrully
+2023-08-11 09:43:50,561 [main] INFO logger_file - Payment Method submit bttn clicked successfully
+2023-08-11 09:45:10,480 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 09:45:10,637 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 09:45:10,930 [main] INFO logger_file - User entered email and password
+2023-08-11 09:45:11,032 [main] INFO logger_file - User clicked on login button
+2023-08-11 09:45:11,406 [main] INFO logger_file - User is in account page
+2023-08-11 09:45:11,683 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-08-11 09:45:12,230 [main] INFO logger_file - Payment Information was added successrully
+2023-08-11 09:45:12,317 [main] INFO logger_file - Payment Method submit bttn clicked successfully
+2023-08-11 10:04:27,609 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 10:04:27,814 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 10:04:28,094 [main] INFO logger_file - User entered email and password
+2023-08-11 10:04:28,187 [main] INFO logger_file - User clicked on login button
+2023-08-11 10:04:28,604 [main] INFO logger_file - User is in account page
+2023-08-11 10:04:28,915 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-08-11 10:04:29,448 [main] INFO logger_file - Payment Information was added successrully
+2023-08-11 10:04:29,530 [main] INFO logger_file - Payment Method submit bttn clicked successfully
+2023-08-11 10:24:18,816 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 10:24:19,003 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 10:24:19,289 [main] INFO logger_file - User entered email and password
+2023-08-11 10:24:19,386 [main] INFO logger_file - User clicked on login button
+2023-08-11 10:24:19,837 [main] INFO logger_file - User is in account page
+2023-08-11 10:24:20,146 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-08-11 10:24:20,741 [main] INFO logger_file - Payment Information was added successrully
+2023-08-11 10:24:20,828 [main] INFO logger_file - Payment Method submit bttn clicked successfully
+2023-08-11 10:25:52,185 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 10:25:52,352 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 10:25:52,655 [main] INFO logger_file - User entered email and password
+2023-08-11 10:25:52,765 [main] INFO logger_file - User clicked on login button
+2023-08-11 10:25:53,136 [main] INFO logger_file - User is in account page
+2023-08-11 10:25:53,395 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-08-11 10:25:54,060 [main] INFO logger_file - Payment Information was added successrully
+2023-08-11 10:25:54,163 [main] INFO logger_file - Payment Method submit bttn clicked successfully
+2023-08-11 10:34:12,228 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 10:34:12,400 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 10:34:12,729 [main] INFO logger_file - User entered email and password
+2023-08-11 10:34:12,831 [main] INFO logger_file - User clicked on login button
+2023-08-11 10:34:13,229 [main] INFO logger_file - User is in account page
+2023-08-11 10:34:13,481 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-08-11 10:34:14,126 [main] INFO logger_file - Payment Information was added successrully
+2023-08-11 10:34:14,223 [main] INFO logger_file - Payment Method submit bttn clicked successfully
+2023-08-11 11:47:54,442 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 11:47:54,706 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 11:47:55,057 [main] INFO logger_file - User entered email and password
+2023-08-11 11:47:55,177 [main] INFO logger_file - User clicked on login button
+2023-08-11 11:47:55,630 [main] INFO logger_file - User is in account page
+2023-08-11 11:47:55,959 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-08-11 11:47:56,640 [main] INFO logger_file - Payment Information was added successrully
+2023-08-11 11:47:56,744 [main] INFO logger_file - Payment Method submit bttn clicked successfully
+2023-08-11 11:48:51,994 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 11:48:52,252 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 11:48:52,640 [main] INFO logger_file - User entered email and password
+2023-08-11 11:48:52,780 [main] INFO logger_file - User clicked on login button
+2023-08-11 11:48:53,408 [main] INFO logger_file - User is in account page
+2023-08-11 11:48:53,864 [main] INFO logger_file - Name was entered successfully
+2023-08-11 11:48:54,157 [main] INFO logger_file - Phone number was entered successfully
+2023-08-11 11:49:18,416 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 11:49:18,742 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 11:49:19,138 [main] INFO logger_file - User entered email and password
+2023-08-11 11:49:19,255 [main] INFO logger_file - User clicked on login button
+2023-08-11 11:49:19,711 [main] INFO logger_file - User is in account page
+2023-08-11 11:49:20,037 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-08-11 11:49:20,755 [main] INFO logger_file - Payment Information was added successrully
+2023-08-11 11:49:20,865 [main] INFO logger_file - Payment Method submit bttn clicked successfully
+2023-08-11 11:55:56,339 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 11:55:56,602 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 11:55:56,941 [main] INFO logger_file - User entered email and password
+2023-08-11 11:55:57,048 [main] INFO logger_file - User clicked on login button
+2023-08-11 11:55:57,484 [main] INFO logger_file - User is in account page
+2023-08-11 11:55:57,808 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-08-11 11:55:58,434 [main] INFO logger_file - Payment Information was added successrully
+2023-08-11 11:55:58,536 [main] INFO logger_file - Payment Method submit bttn clicked successfully
+2023-08-11 11:56:33,250 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 11:56:33,559 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 11:56:33,936 [main] INFO logger_file - User entered email and password
+2023-08-11 11:56:34,087 [main] INFO logger_file - User clicked on login button
+2023-08-11 11:56:34,552 [main] INFO logger_file - User is in account page
+2023-08-11 11:56:34,907 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-08-11 11:56:35,609 [main] INFO logger_file - Payment Information was added successrully
+2023-08-11 11:56:35,741 [main] INFO logger_file - Payment Method submit bttn clicked successfully
+2023-08-11 12:03:56,938 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 12:03:57,197 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 12:03:57,552 [main] INFO logger_file - User entered email and password
+2023-08-11 12:03:57,670 [main] INFO logger_file - User clicked on login button
+2023-08-11 12:03:58,336 [main] INFO logger_file - User is in account page
+2023-08-11 12:03:58,658 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-08-11 12:03:59,366 [main] INFO logger_file - Payment Information was added successrully
+2023-08-11 12:03:59,470 [main] INFO logger_file - Payment Method submit bttn clicked successfully
+2023-08-11 12:04:46,249 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 12:04:46,492 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 12:04:46,875 [main] INFO logger_file - User entered email and password
+2023-08-11 12:04:47,006 [main] INFO logger_file - User clicked on login button
+2023-08-11 12:04:47,485 [main] INFO logger_file - User is in account page
+2023-08-11 12:04:47,812 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-08-11 12:04:48,487 [main] INFO logger_file - Payment Information was added successrully
+2023-08-11 12:04:48,600 [main] INFO logger_file - Payment Method submit bttn clicked successfully
+2023-08-11 12:04:49,742 [main] INFO logger_file - Expected Message: Payment Method added sucessfully
+2023-08-11 12:48:57,464 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 12:48:57,721 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 12:48:58,064 [main] INFO logger_file - User entered email and password
+2023-08-11 12:48:58,174 [main] INFO logger_file - User clicked on login button
+2023-08-11 12:48:58,646 [main] INFO logger_file - User is in account page
+2023-08-11 12:59:48,708 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 12:59:48,935 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 12:59:49,301 [main] INFO logger_file - User entered email and password
+2023-08-11 12:59:49,407 [main] INFO logger_file - User clicked on login button
+2023-08-11 12:59:49,897 [main] INFO logger_file - User is in account page
+2023-08-11 13:01:42,661 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 13:01:42,908 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 13:01:43,262 [main] INFO logger_file - User entered email and password
+2023-08-11 13:01:43,364 [main] INFO logger_file - User clicked on login button
+2023-08-11 13:01:43,798 [main] INFO logger_file - User is in account page
+2023-08-11 13:03:25,559 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 13:03:25,913 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 13:03:26,313 [main] INFO logger_file - User entered email and password
+2023-08-11 13:03:26,427 [main] INFO logger_file - User clicked on login button
+2023-08-11 13:03:26,842 [main] INFO logger_file - User is in account page
+2023-08-11 13:06:10,805 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 13:06:11,050 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 13:06:11,447 [main] INFO logger_file - User entered email and password
+2023-08-11 13:06:11,560 [main] INFO logger_file - User clicked on login button
+2023-08-11 13:06:12,222 [main] INFO logger_file - User is in account page
+2023-08-11 13:06:12,909 [main] INFO logger_file - Edit button clicked sucessfully
+2023-08-11 13:11:02,261 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 13:11:02,486 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 13:11:02,855 [main] INFO logger_file - User entered email and password
+2023-08-11 13:11:02,957 [main] INFO logger_file - User clicked on login button
+2023-08-11 13:11:03,405 [main] INFO logger_file - User is in account page
+2023-08-11 13:11:03,993 [main] INFO logger_file - Edit button clicked sucessfully
+2023-08-11 13:11:04,786 [main] INFO logger_file - Information has been edited
+2023-08-11 13:11:04,882 [main] INFO logger_file - Update Card button clicked
+2023-08-11 13:22:31,590 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 13:22:31,926 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 13:22:32,323 [main] INFO logger_file - User entered email and password
+2023-08-11 13:22:32,458 [main] INFO logger_file - User clicked on login button
+2023-08-11 13:22:32,881 [main] INFO logger_file - User is in account page
+2023-08-11 13:22:33,449 [main] INFO logger_file - Edit button clicked sucessfully
+2023-08-11 13:22:34,360 [main] INFO logger_file - Information has been edited
+2023-08-11 13:22:34,464 [main] INFO logger_file - Update Card button clicked
+2023-08-11 13:50:11,525 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 13:50:11,852 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 13:50:12,224 [main] INFO logger_file - User entered email and password
+2023-08-11 13:50:12,344 [main] INFO logger_file - User clicked on login button
+2023-08-11 13:50:12,785 [main] INFO logger_file - User is in account page
+2023-08-11 13:50:13,354 [main] INFO logger_file - Edit button clicked sucessfully
+2023-08-11 13:50:14,154 [main] INFO logger_file - Information has been edited
+2023-08-11 13:50:14,273 [main] INFO logger_file - Update Card button clicked
+2023-08-11 13:50:15,112 [main] INFO logger_file - Messge is: Payment Method updated Successfully
+2023-08-11 14:02:39,700 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-11 14:02:39,921 [main] INFO logger_file - User clicked on signin butten
+2023-08-11 14:02:40,274 [main] INFO logger_file - User entered email and password
+2023-08-11 14:02:40,385 [main] INFO logger_file - User clicked on login button
+2023-08-11 14:02:40,814 [main] INFO logger_file - User is in account page
+2023-08-11 14:02:41,273 [main] INFO logger_file - Remove button clicked
+2023-08-11 14:02:41,336 [main] INFO logger_file - Payment details removed
+2023-08-12 22:26:26,722 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-12 22:26:26,963 [main] INFO logger_file - User clicked on signin butten
+2023-08-12 22:26:27,294 [main] INFO logger_file - User entered email and password
+2023-08-12 22:26:27,396 [main] INFO logger_file - User clicked on login button
+2023-08-12 22:26:27,875 [main] INFO logger_file - User is in account page
+2023-08-12 22:26:28,232 [main] INFO logger_file - Add address link was clicked
+2023-08-12 22:26:29,246 [main] INFO logger_file - Address form wass filled
+2023-08-12 22:26:29,326 [main] INFO logger_file - Add your address button was clicked
+2023-08-12 22:32:36,796 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-12 22:32:36,999 [main] INFO logger_file - User clicked on signin butten
+2023-08-12 22:32:37,295 [main] INFO logger_file - User entered email and password
+2023-08-12 22:32:37,380 [main] INFO logger_file - User clicked on login button
+2023-08-12 22:32:37,817 [main] INFO logger_file - User is in account page
+2023-08-12 22:32:38,142 [main] INFO logger_file - Add address link was clicked
+2023-08-12 22:32:39,524 [main] INFO logger_file - Address form wass filled
+2023-08-12 22:32:39,647 [main] INFO logger_file - Add your address button was clicked
+2023-08-12 22:32:40,719 [main] INFO logger_file - Message is: Address Added Successfully
+2023-08-13 00:45:36,445 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-13 00:45:36,578 [main] INFO logger_file - User clicked on signin butten
+2023-08-13 00:45:36,860 [main] INFO logger_file - User entered email and password
+2023-08-13 00:45:36,948 [main] INFO logger_file - User clicked on login button
+2023-08-13 00:45:37,349 [main] INFO logger_file - User is in account page
+2023-08-13 00:45:37,501 [main] INFO logger_file - Category was selected from dropdown
+2023-08-13 00:45:37,628 [main] INFO logger_file - Item name was entered
+2023-08-13 00:45:37,755 [main] INFO logger_file - Search button was clicked
+2023-08-13 00:45:38,042 [main] INFO logger_file - Item clicked
+2023-08-13 00:45:38,388 [main] INFO logger_file - Item quantity was selected
+2023-08-13 00:45:38,505 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-13 00:48:12,317 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-13 00:48:12,452 [main] INFO logger_file - User clicked on signin butten
+2023-08-13 00:48:12,761 [main] INFO logger_file - User entered email and password
+2023-08-13 00:48:12,849 [main] INFO logger_file - User clicked on login button
+2023-08-13 00:48:13,223 [main] INFO logger_file - User is in account page
+2023-08-13 00:48:13,390 [main] INFO logger_file - Category was selected from dropdown
+2023-08-13 00:48:13,521 [main] INFO logger_file - Item name was entered
+2023-08-13 00:48:13,653 [main] INFO logger_file - Search button was clicked
+2023-08-13 00:48:13,992 [main] INFO logger_file - Item clicked
+2023-08-13 00:48:14,340 [main] INFO logger_file - Item quantity was selected
+2023-08-13 00:48:14,437 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-13 00:48:14,468 [main] INFO logger_file - Item qty in the cart was validated
+2023-08-13 12:10:26,613 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-13 12:10:26,765 [main] INFO logger_file - User clicked on signin butten
+2023-08-13 12:10:27,066 [main] INFO logger_file - User entered email and password
+2023-08-13 12:10:27,159 [main] INFO logger_file - User clicked on login button
+2023-08-13 12:10:27,545 [main] INFO logger_file - User is in account page
+2023-08-13 12:10:27,709 [main] INFO logger_file - Category changed to electronics
+2023-08-13 12:10:27,847 [main] INFO logger_file - Iten name was entered
+2023-08-13 12:10:27,994 [main] INFO logger_file - Search button was clicked
+2023-08-13 12:10:28,280 [main] INFO logger_file - Item Apex Legends was clicked
+2023-08-13 12:10:28,605 [main] INFO logger_file - Apex Legends qty was changed
+2023-08-13 12:10:28,716 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-13 12:20:07,291 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-13 12:20:07,434 [main] INFO logger_file - User clicked on signin butten
+2023-08-13 12:20:07,723 [main] INFO logger_file - User entered email and password
+2023-08-13 12:20:07,820 [main] INFO logger_file - User clicked on login button
+2023-08-13 12:20:08,186 [main] INFO logger_file - User is in account page
+2023-08-13 12:20:08,348 [main] INFO logger_file - Category changed to electronics
+2023-08-13 12:20:08,469 [main] INFO logger_file - Iten name was entered
+2023-08-13 12:20:08,593 [main] INFO logger_file - Search button was clicked
+2023-08-13 12:20:09,005 [main] INFO logger_file - Item Apex Legends was clicked
+2023-08-13 12:20:09,338 [main] INFO logger_file - Apex Legends qty was changed
+2023-08-13 12:20:09,437 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-13 12:51:58,449 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-13 12:51:58,646 [main] INFO logger_file - User clicked on signin butten
+2023-08-13 12:51:58,939 [main] INFO logger_file - User entered email and password
+2023-08-13 12:51:59,035 [main] INFO logger_file - User clicked on login button
+2023-08-13 12:51:59,438 [main] INFO logger_file - User is in account page
+2023-08-13 12:51:59,614 [main] INFO logger_file - Category changed to electronics
+2023-08-13 12:51:59,723 [main] INFO logger_file - Iten name was entered
+2023-08-13 12:51:59,822 [main] INFO logger_file - Search button was clicked
+2023-08-13 12:52:00,111 [main] INFO logger_file - Item Apex Legends was clicked
+2023-08-13 12:52:00,492 [main] INFO logger_file - Apex Legends qty was changed
+2023-08-13 12:52:00,583 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-13 12:52:00,642 [main] INFO logger_file - Item qty in the cart was validated
+2023-08-13 12:52:00,750 [main] INFO logger_file - Cart button was clicked
+2023-08-13 12:52:00,888 [main] INFO logger_file - Proceed to ckeck out button was clicked
+2023-08-13 12:52:00,989 [main] INFO logger_file - Place your order button was clicked successfully
+2023-08-13 12:52:02,284 [main] INFO logger_file - Message is: Order Placed Successfully
+2023-08-13 12:53:11,531 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-13 12:53:11,674 [main] INFO logger_file - User clicked on signin butten
+2023-08-13 12:53:12,004 [main] INFO logger_file - User entered email and password
+2023-08-13 12:53:12,101 [main] INFO logger_file - User clicked on login button
+2023-08-13 12:53:12,500 [main] INFO logger_file - User is in account page
+2023-08-13 12:53:12,668 [main] INFO logger_file - Category changed to electronics
+2023-08-13 12:53:12,789 [main] INFO logger_file - Iten name was entered
+2023-08-13 12:53:12,930 [main] INFO logger_file - Search button was clicked
+2023-08-13 12:53:13,228 [main] INFO logger_file - Item Apex Legends was clicked
+2023-08-13 12:53:13,616 [main] INFO logger_file - Apex Legends qty was changed
+2023-08-13 12:53:13,701 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-13 12:53:13,958 [main] INFO logger_file - Item qty in the cart was validated
+2023-08-13 12:53:14,064 [main] INFO logger_file - Cart button was clicked
+2023-08-13 12:53:14,201 [main] INFO logger_file - Proceed to ckeck out button was clicked
+2023-08-13 12:53:14,314 [main] INFO logger_file - Place your order button was clicked successfully
+2023-08-13 12:53:15,369 [main] INFO logger_file - Message is: Order Placed Successfully
+2023-08-14 00:04:54,496 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-14 00:04:54,689 [main] INFO logger_file - User clicked on signin butten
+2023-08-14 00:04:54,981 [main] INFO logger_file - User entered email and password
+2023-08-14 00:04:55,071 [main] INFO logger_file - User clicked on login button
+2023-08-14 00:04:55,506 [main] INFO logger_file - User is in account page
+2023-08-14 00:04:55,668 [main] INFO logger_file - Order link was clicked
+2023-08-14 00:04:56,074 [main] INFO logger_file - Order Cancel button was clicked
+2023-08-14 00:05:56,287 [main] INFO logger_file - Cancelation reason was selected
+2023-08-14 00:05:56,403 [main] INFO logger_file - Cancel Order Button was clicked
+2023-08-14 00:05:57,010 [main] INFO logger_file - Cancelation success message was verified successfully
+2023-08-14 00:06:38,446 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-14 00:06:38,624 [main] INFO logger_file - User clicked on signin butten
+2023-08-14 00:06:38,921 [main] INFO logger_file - User entered email and password
+2023-08-14 00:06:39,011 [main] INFO logger_file - User clicked on login button
+2023-08-14 00:06:39,426 [main] INFO logger_file - User is in account page
+2023-08-14 00:06:39,586 [main] INFO logger_file - Order link was clicked
+2023-08-14 00:06:39,979 [main] INFO logger_file - Order Cancel button was clicked
+2023-08-14 00:17:21,058 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-14 00:17:21,255 [main] INFO logger_file - User clicked on signin butten
+2023-08-14 00:17:21,546 [main] INFO logger_file - User entered email and password
+2023-08-14 00:17:21,638 [main] INFO logger_file - User clicked on login button
+2023-08-14 00:17:22,056 [main] INFO logger_file - User is in account page
+2023-08-14 00:17:22,219 [main] INFO logger_file - Order link was clicked
+2023-08-14 00:17:22,645 [main] INFO logger_file - First order in the list is clicked
+2023-08-14 00:18:22,674 [main] INFO logger_file - Order Cancel button was clicked
+2023-08-14 00:27:02,994 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-14 00:27:03,145 [main] INFO logger_file - User clicked on signin butten
+2023-08-14 00:27:03,445 [main] INFO logger_file - User entered email and password
+2023-08-14 00:27:03,532 [main] INFO logger_file - User clicked on login button
+2023-08-14 00:27:03,916 [main] INFO logger_file - User is in account page
+2023-08-14 00:27:04,032 [main] INFO logger_file - Order link was clicked
+2023-08-14 00:27:04,574 [main] INFO logger_file - First order in the list is clicked
+2023-08-14 00:28:04,615 [main] INFO logger_file - Order Cancel button was clicked
+2023-08-14 00:44:35,507 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-14 00:44:35,653 [main] INFO logger_file - User clicked on signin butten
+2023-08-14 00:44:35,968 [main] INFO logger_file - User entered email and password
+2023-08-14 00:44:36,057 [main] INFO logger_file - User clicked on login button
+2023-08-14 00:44:36,430 [main] INFO logger_file - User is in account page
+2023-08-14 00:44:36,558 [main] INFO logger_file - Order link was clicked
+2023-08-14 00:44:38,511 [main] INFO logger_file - First order in the list is clicked
+2023-08-14 00:45:38,557 [main] INFO logger_file - Order Cancel button was clicked
+2023-08-14 01:02:09,108 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-14 01:02:09,293 [main] INFO logger_file - User clicked on signin butten
+2023-08-14 01:02:09,603 [main] INFO logger_file - User entered email and password
+2023-08-14 01:02:09,698 [main] INFO logger_file - User clicked on login button
+2023-08-14 01:02:10,341 [main] INFO logger_file - User is in account page
+2023-08-14 01:02:10,486 [main] INFO logger_file - Order link was clicked
+2023-08-14 01:02:11,071 [main] INFO logger_file - First order in the list is clicked
+2023-08-14 01:03:11,192 [main] INFO logger_file - Order Cancel button was clicked
+2023-08-14 01:03:11,362 [main] INFO logger_file - Cancelation reason was selected
+2023-08-14 01:03:11,585 [main] INFO logger_file - Cancel Order Button was clicked
+2023-08-14 01:03:12,209 [main] INFO logger_file - Cancelation success message was verified successfully
+2023-08-14 01:09:46,926 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-14 01:09:47,085 [main] INFO logger_file - User clicked on signin butten
+2023-08-14 01:09:47,373 [main] INFO logger_file - User entered email and password
+2023-08-14 01:09:47,465 [main] INFO logger_file - User clicked on login button
+2023-08-14 01:09:47,878 [main] INFO logger_file - User is in account page
+2023-08-14 01:09:48,003 [main] INFO logger_file - Order link was clicked
+2023-08-14 01:09:48,736 [main] INFO logger_file - First order in the list is clicked
+2023-08-14 01:10:48,862 [main] INFO logger_file - Order Cancel button was clicked
+2023-08-14 01:10:49,045 [main] INFO logger_file - Cancelation reason was selected
+2023-08-14 01:10:49,175 [main] INFO logger_file - Cancel Order Button was clicked
+2023-08-14 01:10:49,724 [main] INFO logger_file - Cancelation success message was verified successfully
+2023-08-14 13:23:56,863 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-14 13:23:57,136 [main] INFO logger_file - User clicked on signin butten
+2023-08-14 13:23:57,479 [main] INFO logger_file - User entered email and password
+2023-08-14 13:23:57,585 [main] INFO logger_file - User clicked on login button
+2023-08-14 13:23:58,052 [main] INFO logger_file - User is in account page
+2023-08-14 13:23:58,443 [main] INFO logger_file - User clicked on edit address button
+2023-08-14 13:35:49,121 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-14 13:35:49,352 [main] INFO logger_file - User clicked on signin butten
+2023-08-14 13:35:49,683 [main] INFO logger_file - User entered email and password
+2023-08-14 13:35:49,785 [main] INFO logger_file - User clicked on login button
+2023-08-14 13:35:50,209 [main] INFO logger_file - User is in account page
+2023-08-14 13:35:50,708 [main] INFO logger_file - User clicked on edit address button
+2023-08-14 13:41:32,449 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-14 13:41:32,715 [main] INFO logger_file - User clicked on signin butten
+2023-08-14 13:41:33,066 [main] INFO logger_file - User entered email and password
+2023-08-14 13:41:33,182 [main] INFO logger_file - User clicked on login button
+2023-08-14 13:41:33,750 [main] INFO logger_file - User is in account page
+2023-08-14 13:41:34,195 [main] INFO logger_file - User clicked on edit address button
+2023-08-14 13:41:35,735 [main] INFO logger_file - User edited the new address information
+2023-08-14 13:41:35,832 [main] INFO logger_file - Update button was clicked
+2023-08-14 13:47:57,260 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-14 13:47:57,484 [main] INFO logger_file - User clicked on signin butten
+2023-08-14 13:47:57,846 [main] INFO logger_file - User entered email and password
+2023-08-14 13:47:57,970 [main] INFO logger_file - User clicked on login button
+2023-08-14 13:47:58,383 [main] INFO logger_file - User is in account page
+2023-08-14 13:47:58,864 [main] INFO logger_file - User clicked on edit address button
+2023-08-14 13:48:00,572 [main] INFO logger_file - User edited the new address information
+2023-08-14 13:48:00,671 [main] INFO logger_file - Update button was clicked
+2023-08-14 13:50:02,423 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-14 13:50:02,843 [main] INFO logger_file - User clicked on signin butten
+2023-08-14 13:50:03,271 [main] INFO logger_file - User entered email and password
+2023-08-14 13:50:03,366 [main] INFO logger_file - User clicked on login button
+2023-08-14 13:50:04,066 [main] INFO logger_file - User is in account page
+2023-08-14 13:50:04,584 [main] INFO logger_file - User clicked on edit address button
+2023-08-14 13:52:15,379 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-14 13:52:15,640 [main] INFO logger_file - User clicked on signin butten
+2023-08-14 13:52:15,999 [main] INFO logger_file - User entered email and password
+2023-08-14 13:52:16,118 [main] INFO logger_file - User clicked on login button
+2023-08-14 13:52:16,728 [main] INFO logger_file - User is in account page
+2023-08-14 13:52:17,304 [main] INFO logger_file - User clicked on edit address button
+2023-08-14 13:52:18,823 [main] INFO logger_file - User edited the new address information
+2023-08-14 13:52:18,934 [main] INFO logger_file - Update button was clicked
+2023-08-14 14:00:59,664 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-14 14:00:59,924 [main] INFO logger_file - User clicked on signin butten
+2023-08-14 14:01:00,310 [main] INFO logger_file - User entered email and password
+2023-08-14 14:01:00,424 [main] INFO logger_file - User clicked on login button
+2023-08-14 14:01:00,880 [main] INFO logger_file - User is in account page
+2023-08-14 14:01:01,335 [main] INFO logger_file - User clicked on edit address button
+2023-08-14 14:01:02,796 [main] INFO logger_file - User edited the new address information
+2023-08-14 14:01:02,884 [main] INFO logger_file - Update button was clicked
+2023-08-14 14:01:43,360 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-14 14:01:43,634 [main] INFO logger_file - User clicked on signin butten
+2023-08-14 14:01:43,974 [main] INFO logger_file - User entered email and password
+2023-08-14 14:01:44,197 [main] INFO logger_file - User clicked on login button
+2023-08-14 14:01:44,820 [main] INFO logger_file - User is in account page
+2023-08-14 14:01:45,471 [main] INFO logger_file - User clicked on edit address button
+2023-08-14 14:01:46,921 [main] INFO logger_file - User edited the new address information
+2023-08-14 14:01:47,044 [main] INFO logger_file - Update button was clicked
+2023-08-14 14:01:48,175 [main] INFO logger_file - Message is: Address Updated Successfully
+2023-08-15 21:59:07,414 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-15 21:59:07,609 [main] INFO logger_file - User clicked on signin butten
+2023-08-15 21:59:07,945 [main] INFO logger_file - User entered email and password
+2023-08-15 21:59:08,042 [main] INFO logger_file - User clicked on login button
+2023-08-15 21:59:08,452 [main] INFO logger_file - User is in account page
+2023-08-15 21:59:08,624 [main] INFO logger_file - The first order was clicked
+2023-08-15 21:59:08,934 [main] INFO logger_file - User clicked on first order
+2023-08-15 21:59:09,086 [main] INFO logger_file - User clicked on return item button
+2023-08-15 21:59:09,271 [main] INFO logger_file - User selected the return reason
+2023-08-15 21:59:09,405 [main] INFO logger_file - User selected the drop off service
+2023-08-15 21:59:09,506 [main] INFO logger_file - User clicked on return order bttn
+2023-08-15 21:59:10,045 [main] INFO logger_file - Return was successful
+2023-08-15 22:52:09,168 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-15 22:52:09,350 [main] INFO logger_file - User clicked on signin butten
+2023-08-15 22:52:09,621 [main] INFO logger_file - User entered email and password
+2023-08-15 22:52:09,705 [main] INFO logger_file - User clicked on login button
+2023-08-15 22:52:10,277 [main] INFO logger_file - User is in account page
+2023-08-15 22:52:10,397 [main] INFO logger_file - User clicked on the orders section
+2023-08-15 22:52:10,753 [main] INFO logger_file - The first order on the list was clicked
+2023-08-15 22:52:10,888 [main] INFO logger_file - Review Bttn was clicked
+2023-08-15 22:52:11,122 [main] INFO logger_file - User wrote review headline
+2023-08-15 22:52:11,251 [main] INFO logger_file - Add your review button was clicked
+2023-08-15 22:52:12,095 [main] INFO logger_file - Review message displayed successfully as: Your review was added successfully
+2023-08-15 23:08:08,446 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-15 23:08:08,592 [main] INFO logger_file - User clicked on signin butten
+2023-08-15 23:08:08,865 [main] INFO logger_file - User entered email and password
+2023-08-15 23:08:08,952 [main] INFO logger_file - User clicked on login button
+2023-08-15 23:08:09,335 [main] INFO logger_file - User is in account page
+2023-08-15 23:08:10,069 [main] INFO logger_file - Remove option of address section was clicked
+2023-08-15 23:08:10,102 [main] INFO logger_file - Address removed successfully
+2023-08-23 15:59:01,861 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-23 15:59:02,350 [main] INFO logger_file - User clicked on signin butten
+2023-08-23 15:59:02,637 [main] INFO logger_file - User entered email and password
+2023-08-23 15:59:02,932 [main] INFO logger_file - User clicked on login button
+2023-08-23 15:59:03,176 [main] INFO logger_file - User is in account page
+2023-08-23 15:59:03,978 [main] INFO logger_file - Remove option of address section was clicked
+2023-08-23 15:59:04,028 [main] INFO logger_file - Address removed successfully
+2023-08-23 16:48:05,893 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-23 16:48:06,157 [main] INFO logger_file - User clicked on signin butten
+2023-08-23 16:48:06,582 [main] INFO logger_file - User entered email and password
+2023-08-23 16:48:06,699 [main] INFO logger_file - User clicked on login button
+2023-08-23 16:48:07,128 [main] INFO logger_file - User is in account page
+2023-08-23 16:48:07,686 [main] INFO logger_file - Edit button clicked sucessfully
+2023-08-23 16:48:08,727 [main] INFO logger_file - Information has been edited
+2023-08-23 16:48:08,847 [main] INFO logger_file - Update Card button clicked
+2023-08-23 16:48:09,707 [main] INFO logger_file - Messge is: Payment Method updated Successfully
+2023-08-24 19:05:17,795 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 19:05:18,030 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 19:05:18,222 [main] INFO logger_file - New account buttun is clicked
+2023-08-24 19:05:19,202 [main] INFO logger_file - User filled the signUp information
+2023-08-24 19:05:19,356 [main] INFO logger_file - Uer clicked on signup buttu
+2023-08-24 19:05:19,786 [main] INFO logger_file - User is into account page
+2023-08-24 19:40:04,764 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 19:40:05,528 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 19:40:05,963 [main] INFO logger_file - User entered email and password
+2023-08-24 19:40:06,095 [main] INFO logger_file - User clicked on login button
+2023-08-24 19:40:06,439 [main] INFO logger_file - User is in account page
+2023-08-24 19:40:06,823 [main] INFO logger_file - Add address link was clicked
+2023-08-24 19:42:29,192 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 19:42:29,649 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 19:42:30,147 [main] INFO logger_file - User entered email and password
+2023-08-24 19:42:30,278 [main] INFO logger_file - User clicked on login button
+2023-08-24 19:42:30,668 [main] INFO logger_file - User is in account page
+2023-08-24 19:42:31,066 [main] INFO logger_file - Add address link was clicked
+2023-08-24 19:45:45,385 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 19:45:45,679 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 19:45:46,104 [main] INFO logger_file - User entered email and password
+2023-08-24 19:45:46,260 [main] INFO logger_file - User clicked on login button
+2023-08-24 19:45:46,663 [main] INFO logger_file - User is in account page
+2023-08-24 19:45:47,047 [main] INFO logger_file - Add address link was clicked
+2023-08-24 19:47:36,880 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 19:47:37,185 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 19:47:37,575 [main] INFO logger_file - User entered email and password
+2023-08-24 19:47:37,695 [main] INFO logger_file - User clicked on login button
+2023-08-24 19:47:38,280 [main] INFO logger_file - User is in account page
+2023-08-24 19:47:38,643 [main] INFO logger_file - Add address link was clicked
+2023-08-24 19:47:40,507 [main] INFO logger_file - Address form wass filled
+2023-08-24 19:47:40,680 [main] INFO logger_file - Add your address button was clicked
+2023-08-24 19:47:41,451 [main] INFO logger_file - Message is: Address Added Successfully
+2023-08-24 19:52:56,571 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 19:52:56,857 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 19:52:57,282 [main] INFO logger_file - User entered email and password
+2023-08-24 19:52:57,401 [main] INFO logger_file - User clicked on login button
+2023-08-24 19:52:57,812 [main] INFO logger_file - User is in account page
+2023-08-24 19:52:58,282 [main] INFO logger_file - User clicked on edit address button
+2023-08-24 19:53:00,382 [main] INFO logger_file - User edited the new address information
+2023-08-24 19:53:00,520 [main] INFO logger_file - Update button was clicked
+2023-08-24 19:53:01,644 [main] INFO logger_file - Message is: Address Updated Successfully
+2023-08-24 19:57:20,508 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 19:57:20,745 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 19:57:21,193 [main] INFO logger_file - User entered email and password
+2023-08-24 19:57:21,327 [main] INFO logger_file - User clicked on login button
+2023-08-24 19:57:21,753 [main] INFO logger_file - User is in account page
+2023-08-24 19:57:22,162 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-08-24 19:57:22,948 [main] INFO logger_file - Payment Information was added successrully
+2023-08-24 19:57:23,058 [main] INFO logger_file - Payment Method submit bttn clicked successfully
+2023-08-24 19:57:24,112 [main] INFO logger_file - Expected Message: Payment Method added sucessfully
+2023-08-24 19:58:18,340 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 19:58:18,609 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 19:58:19,426 [main] INFO logger_file - User entered email and password
+2023-08-24 19:58:19,593 [main] INFO logger_file - User clicked on login button
+2023-08-24 19:58:20,367 [main] INFO logger_file - User is in account page
+2023-08-24 19:58:21,109 [main] INFO logger_file - Edit button clicked sucessfully
+2023-08-24 19:58:22,228 [main] INFO logger_file - Information has been edited
+2023-08-24 19:58:22,379 [main] INFO logger_file - Update Card button clicked
+2023-08-24 19:58:23,235 [main] INFO logger_file - Messge is: Payment Method updated Successfully
+2023-08-24 20:10:43,874 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 20:10:44,180 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 20:10:44,594 [main] INFO logger_file - User entered email and password
+2023-08-24 20:10:44,759 [main] INFO logger_file - User clicked on login button
+2023-08-24 20:10:45,172 [main] INFO logger_file - User is in account page
+2023-08-24 20:10:45,396 [main] INFO logger_file - Category was selected from dropdown
+2023-08-24 20:10:45,565 [main] INFO logger_file - Item name was entered
+2023-08-24 20:10:45,671 [main] INFO logger_file - Search button was clicked
+2023-08-24 20:10:45,993 [main] INFO logger_file - Item clicked
+2023-08-24 20:10:46,355 [main] INFO logger_file - Item quantity was selected
+2023-08-24 20:10:46,479 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-24 20:10:50,021 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 20:10:50,176 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 20:10:50,568 [main] INFO logger_file - User entered email and password
+2023-08-24 20:10:50,671 [main] INFO logger_file - User clicked on login button
+2023-08-24 20:10:51,038 [main] INFO logger_file - User is in account page
+2023-08-24 20:10:51,200 [main] INFO logger_file - Category changed to electronics
+2023-08-24 20:10:51,343 [main] INFO logger_file - Iten name was entered
+2023-08-24 20:10:51,516 [main] INFO logger_file - Search button was clicked
+2023-08-24 20:10:51,850 [main] INFO logger_file - Item Apex Legends was clicked
+2023-08-24 20:10:52,213 [main] INFO logger_file - Apex Legends qty was changed
+2023-08-24 20:10:52,397 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-24 20:10:56,467 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 20:10:56,621 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 20:10:57,002 [main] INFO logger_file - User entered email and password
+2023-08-24 20:10:57,110 [main] INFO logger_file - User clicked on login button
+2023-08-24 20:10:57,464 [main] INFO logger_file - User is in account page
+2023-08-24 20:10:57,652 [main] INFO logger_file - Order link was clicked
+2023-08-24 20:10:58,714 [main] INFO logger_file - First order in the list is clicked
+2023-08-24 20:11:58,880 [main] INFO logger_file - Order Cancel button was clicked
+2023-08-24 20:11:59,027 [main] INFO logger_file - Cancelation reason was selected
+2023-08-24 20:11:59,157 [main] INFO logger_file - Cancel Order Button was clicked
+2023-08-24 20:11:59,759 [main] INFO logger_file - Cancelation success message was verified successfully
+2023-08-24 20:12:02,789 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 20:12:02,949 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 20:12:03,345 [main] INFO logger_file - User entered email and password
+2023-08-24 20:12:03,467 [main] INFO logger_file - User clicked on login button
+2023-08-24 20:12:03,829 [main] INFO logger_file - User is in account page
+2023-08-24 20:12:03,970 [main] INFO logger_file - The first order was clicked
+2023-08-24 20:12:04,411 [main] INFO logger_file - User clicked on first order
+2023-08-24 20:14:07,636 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 20:14:07,806 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 20:14:08,256 [main] INFO logger_file - User entered email and password
+2023-08-24 20:14:08,373 [main] INFO logger_file - User clicked on login button
+2023-08-24 20:14:08,738 [main] INFO logger_file - User is in account page
+2023-08-24 20:14:08,993 [main] INFO logger_file - User clicked on the orders section
+2023-08-24 20:14:09,352 [main] INFO logger_file - The first order on the list was clicked
+2023-08-24 20:14:09,525 [main] INFO logger_file - Review Bttn was clicked
+2023-08-24 20:14:09,857 [main] INFO logger_file - User wrote review headline
+2023-08-24 20:14:10,042 [main] INFO logger_file - Add your review button was clicked
+2023-08-24 20:14:10,829 [main] INFO logger_file - Review message displayed successfully as: Your review was added successfully
+2023-08-24 20:54:32,288 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 20:54:32,744 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 20:54:33,291 [main] INFO logger_file - User entered email and password
+2023-08-24 20:54:33,421 [main] INFO logger_file - User clicked on login button
+2023-08-24 20:54:33,829 [main] INFO logger_file - User is in account page
+2023-08-24 20:54:33,991 [main] INFO logger_file - Order link was clicked
+2023-08-24 20:54:35,146 [main] INFO logger_file - First order in the list is clicked
+2023-08-24 20:55:12,510 [main] INFO logger_file - Order Cancel button was clicked
+2023-08-24 20:59:05,144 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 20:59:05,803 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 20:59:06,332 [main] INFO logger_file - User entered email and password
+2023-08-24 20:59:06,472 [main] INFO logger_file - User clicked on login button
+2023-08-24 20:59:06,831 [main] INFO logger_file - User is in account page
+2023-08-24 20:59:07,061 [main] INFO logger_file - Category was selected from dropdown
+2023-08-24 20:59:07,332 [main] INFO logger_file - Item name was entered
+2023-08-24 20:59:07,473 [main] INFO logger_file - Search button was clicked
+2023-08-24 20:59:07,780 [main] INFO logger_file - Item clicked
+2023-08-24 20:59:08,143 [main] INFO logger_file - Item quantity was selected
+2023-08-24 20:59:08,337 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-24 20:59:08,603 [main] INFO logger_file - Item qty in the cart was validated
+2023-08-24 20:59:14,046 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 20:59:14,496 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 20:59:15,118 [main] INFO logger_file - User entered email and password
+2023-08-24 20:59:15,250 [main] INFO logger_file - User clicked on login button
+2023-08-24 20:59:15,829 [main] INFO logger_file - User is in account page
+2023-08-24 20:59:16,020 [main] INFO logger_file - Category changed to electronics
+2023-08-24 20:59:16,169 [main] INFO logger_file - Iten name was entered
+2023-08-24 20:59:16,347 [main] INFO logger_file - Search button was clicked
+2023-08-24 20:59:16,688 [main] INFO logger_file - Item Apex Legends was clicked
+2023-08-24 20:59:17,035 [main] INFO logger_file - Apex Legends qty was changed
+2023-08-24 20:59:17,200 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-24 20:59:24,010 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 20:59:24,360 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 20:59:24,983 [main] INFO logger_file - User entered email and password
+2023-08-24 20:59:25,121 [main] INFO logger_file - User clicked on login button
+2023-08-24 20:59:25,517 [main] INFO logger_file - User is in account page
+2023-08-24 20:59:25,731 [main] INFO logger_file - The first order was clicked
+2023-08-24 20:59:26,109 [main] INFO logger_file - User clicked on first order
+2023-08-24 21:01:29,822 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:01:30,282 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:01:30,884 [main] INFO logger_file - User entered email and password
+2023-08-24 21:01:31,033 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:01:31,462 [main] INFO logger_file - User is in account page
+2023-08-24 21:01:31,655 [main] INFO logger_file - User clicked on the orders section
+2023-08-24 21:01:31,960 [main] INFO logger_file - The first order on the list was clicked
+2023-08-24 21:01:32,241 [main] INFO logger_file - Review Bttn was clicked
+2023-08-24 21:01:32,701 [main] INFO logger_file - User wrote review headline
+2023-08-24 21:01:32,912 [main] INFO logger_file - Add your review button was clicked
+2023-08-24 21:01:33,732 [main] INFO logger_file - Review message displayed successfully as: Your review was added successfully
+2023-08-24 21:04:29,300 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:04:29,784 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:04:30,374 [main] INFO logger_file - User entered email and password
+2023-08-24 21:04:30,523 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:04:30,930 [main] INFO logger_file - User is in account page
+2023-08-24 21:04:31,113 [main] INFO logger_file - User clicked on the orders section
+2023-08-24 21:04:31,357 [main] INFO logger_file - The first order on the list was clicked
+2023-08-24 21:04:31,522 [main] INFO logger_file - Review Bttn was clicked
+2023-08-24 21:04:31,956 [main] INFO logger_file - User wrote review headline
+2023-08-24 21:04:32,154 [main] INFO logger_file - Add your review button was clicked
+2023-08-24 21:04:32,958 [main] INFO logger_file - Review message displayed successfully as: Your review was added successfully
+2023-08-24 21:06:31,372 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:06:32,136 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:06:32,673 [main] INFO logger_file - User entered email and password
+2023-08-24 21:06:33,075 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:06:33,696 [main] INFO logger_file - User is in account page
+2023-08-24 21:06:33,863 [main] INFO logger_file - Category was selected from dropdown
+2023-08-24 21:06:34,049 [main] INFO logger_file - Item name was entered
+2023-08-24 21:06:34,237 [main] INFO logger_file - Search button was clicked
+2023-08-24 21:06:34,618 [main] INFO logger_file - Item clicked
+2023-08-24 21:06:35,101 [main] INFO logger_file - Item quantity was selected
+2023-08-24 21:06:35,338 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-24 21:06:39,619 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:06:39,992 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:06:40,658 [main] INFO logger_file - User entered email and password
+2023-08-24 21:06:40,789 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:06:41,271 [main] INFO logger_file - User is in account page
+2023-08-24 21:06:41,513 [main] INFO logger_file - Category changed to electronics
+2023-08-24 21:06:41,712 [main] INFO logger_file - Iten name was entered
+2023-08-24 21:06:41,846 [main] INFO logger_file - Search button was clicked
+2023-08-24 21:06:42,195 [main] INFO logger_file - Item Apex Legends was clicked
+2023-08-24 21:06:42,758 [main] INFO logger_file - Apex Legends qty was changed
+2023-08-24 21:06:42,877 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-24 21:06:47,480 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:06:47,816 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:06:48,474 [main] INFO logger_file - User entered email and password
+2023-08-24 21:06:48,615 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:06:49,023 [main] INFO logger_file - User is in account page
+2023-08-24 21:06:49,192 [main] INFO logger_file - Order link was clicked
+2023-08-24 21:06:50,281 [main] INFO logger_file - First order in the list is clicked
+2023-08-24 21:07:50,291 [main] INFO logger_file - Order Cancel button was clicked
+2023-08-24 21:08:54,727 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:08:55,011 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:08:55,606 [main] INFO logger_file - User entered email and password
+2023-08-24 21:08:55,766 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:08:56,164 [main] INFO logger_file - User is in account page
+2023-08-24 21:08:56,372 [main] INFO logger_file - Category changed to electronics
+2023-08-24 21:08:56,589 [main] INFO logger_file - Iten name was entered
+2023-08-24 21:08:56,753 [main] INFO logger_file - Search button was clicked
+2023-08-24 21:08:57,071 [main] INFO logger_file - Item Apex Legends was clicked
+2023-08-24 21:08:57,488 [main] INFO logger_file - Apex Legends qty was changed
+2023-08-24 21:08:57,649 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-24 21:09:02,316 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:09:02,679 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:09:03,253 [main] INFO logger_file - User entered email and password
+2023-08-24 21:09:03,379 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:09:03,788 [main] INFO logger_file - User is in account page
+2023-08-24 21:09:03,962 [main] INFO logger_file - The first order was clicked
+2023-08-24 21:09:04,257 [main] INFO logger_file - User clicked on first order
+2023-08-24 21:11:09,166 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:11:09,533 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:11:10,094 [main] INFO logger_file - User entered email and password
+2023-08-24 21:11:10,250 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:11:10,652 [main] INFO logger_file - User is in account page
+2023-08-24 21:11:10,812 [main] INFO logger_file - User clicked on the orders section
+2023-08-24 21:11:11,325 [main] INFO logger_file - The first order on the list was clicked
+2023-08-24 21:11:11,497 [main] INFO logger_file - Review Bttn was clicked
+2023-08-24 21:11:11,880 [main] INFO logger_file - User wrote review headline
+2023-08-24 21:11:12,180 [main] INFO logger_file - Add your review button was clicked
+2023-08-24 21:11:12,989 [main] INFO logger_file - Review message displayed successfully as: Your review was added successfully
+2023-08-24 21:12:35,922 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:12:36,449 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:12:37,095 [main] INFO logger_file - User entered email and password
+2023-08-24 21:12:37,231 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:12:37,856 [main] INFO logger_file - User is in account page
+2023-08-24 21:12:38,006 [main] INFO logger_file - Order link was clicked
+2023-08-24 21:12:39,221 [main] INFO logger_file - First order in the list is clicked
+2023-08-24 21:13:39,286 [main] INFO logger_file - Order Cancel button was clicked
+2023-08-24 21:15:25,353 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:15:26,231 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:15:26,768 [main] INFO logger_file - User entered email and password
+2023-08-24 21:15:26,889 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:15:27,236 [main] INFO logger_file - User is in account page
+2023-08-24 21:15:27,445 [main] INFO logger_file - Category was selected from dropdown
+2023-08-24 21:15:27,664 [main] INFO logger_file - Item name was entered
+2023-08-24 21:15:27,814 [main] INFO logger_file - Search button was clicked
+2023-08-24 21:15:28,156 [main] INFO logger_file - Item clicked
+2023-08-24 21:15:28,524 [main] INFO logger_file - Item quantity was selected
+2023-08-24 21:15:28,726 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-24 21:15:28,969 [main] INFO logger_file - Item qty in the cart was validated
+2023-08-24 21:15:32,657 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:15:33,064 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:15:33,656 [main] INFO logger_file - User entered email and password
+2023-08-24 21:15:33,791 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:15:34,178 [main] INFO logger_file - User is in account page
+2023-08-24 21:15:34,421 [main] INFO logger_file - Category changed to electronics
+2023-08-24 21:15:34,620 [main] INFO logger_file - Iten name was entered
+2023-08-24 21:15:34,773 [main] INFO logger_file - Search button was clicked
+2023-08-24 21:15:35,152 [main] INFO logger_file - Item Apex Legends was clicked
+2023-08-24 21:15:35,748 [main] INFO logger_file - Apex Legends qty was changed
+2023-08-24 21:15:35,953 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-24 21:15:40,794 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:15:41,279 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:15:41,957 [main] INFO logger_file - User entered email and password
+2023-08-24 21:15:42,116 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:15:42,521 [main] INFO logger_file - User is in account page
+2023-08-24 21:15:42,750 [main] INFO logger_file - Order link was clicked
+2023-08-24 21:15:44,082 [main] INFO logger_file - First order in the list is clicked
+2023-08-24 21:16:44,124 [main] INFO logger_file - Order Cancel button was clicked
+2023-08-24 21:17:49,422 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:17:49,697 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:17:50,303 [main] INFO logger_file - User entered email and password
+2023-08-24 21:17:50,453 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:17:51,068 [main] INFO logger_file - User is in account page
+2023-08-24 21:17:51,256 [main] INFO logger_file - Category changed to electronics
+2023-08-24 21:17:51,383 [main] INFO logger_file - Iten name was entered
+2023-08-24 21:17:51,551 [main] INFO logger_file - Search button was clicked
+2023-08-24 21:17:51,903 [main] INFO logger_file - Item Apex Legends was clicked
+2023-08-24 21:17:52,306 [main] INFO logger_file - Apex Legends qty was changed
+2023-08-24 21:17:52,530 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-24 21:17:56,657 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:17:56,842 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:17:57,499 [main] INFO logger_file - User entered email and password
+2023-08-24 21:17:57,662 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:17:58,017 [main] INFO logger_file - User is in account page
+2023-08-24 21:17:58,157 [main] INFO logger_file - The first order was clicked
+2023-08-24 21:17:58,770 [main] INFO logger_file - User clicked on first order
+2023-08-24 21:20:04,395 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:20:04,744 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:20:05,255 [main] INFO logger_file - User entered email and password
+2023-08-24 21:20:05,407 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:20:05,961 [main] INFO logger_file - User is in account page
+2023-08-24 21:20:06,134 [main] INFO logger_file - User clicked on the orders section
+2023-08-24 21:20:06,985 [main] INFO logger_file - The first order on the list was clicked
+2023-08-24 21:20:07,145 [main] INFO logger_file - Review Bttn was clicked
+2023-08-24 21:20:07,547 [main] INFO logger_file - User wrote review headline
+2023-08-24 21:20:07,732 [main] INFO logger_file - Add your review button was clicked
+2023-08-24 21:20:08,562 [main] INFO logger_file - Review message displayed successfully as: Your review was added successfully
+2023-08-24 21:27:28,141 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:27:28,692 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:27:29,287 [main] INFO logger_file - User entered email and password
+2023-08-24 21:27:29,454 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:27:29,888 [main] INFO logger_file - User is in account page
+2023-08-24 21:27:30,143 [main] INFO logger_file - Category was selected from dropdown
+2023-08-24 21:27:30,368 [main] INFO logger_file - Item name was entered
+2023-08-24 21:27:30,534 [main] INFO logger_file - Search button was clicked
+2023-08-24 21:27:30,849 [main] INFO logger_file - Item clicked
+2023-08-24 21:27:31,226 [main] INFO logger_file - Item quantity was selected
+2023-08-24 21:27:31,389 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-24 21:27:37,364 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:27:37,686 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:27:38,175 [main] INFO logger_file - User entered email and password
+2023-08-24 21:27:38,304 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:27:38,704 [main] INFO logger_file - User is in account page
+2023-08-24 21:27:38,875 [main] INFO logger_file - Order link was clicked
+2023-08-24 21:27:40,132 [main] INFO logger_file - First order in the list is clicked
+2023-08-24 21:28:40,146 [main] INFO logger_file - Order Cancel button was clicked
+2023-08-24 21:29:18,541 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:29:19,156 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:29:19,752 [main] INFO logger_file - User entered email and password
+2023-08-24 21:29:19,906 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:29:20,536 [main] INFO logger_file - User is in account page
+2023-08-24 21:29:20,711 [main] INFO logger_file - Category changed to electronics
+2023-08-24 21:29:20,852 [main] INFO logger_file - Iten name was entered
+2023-08-24 21:29:21,014 [main] INFO logger_file - Search button was clicked
+2023-08-24 21:29:21,405 [main] INFO logger_file - Item Apex Legends was clicked
+2023-08-24 21:29:22,000 [main] INFO logger_file - Apex Legends qty was changed
+2023-08-24 21:29:22,159 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-24 21:29:22,514 [main] INFO logger_file - Cart button was clicked
+2023-08-24 21:29:22,696 [main] INFO logger_file - Proceed to ckeck out button was clicked
+2023-08-24 21:29:22,852 [main] INFO logger_file - Place your order button was clicked successfully
+2023-08-24 21:29:23,869 [main] INFO logger_file - Message is: Order Placed Successfully
+2023-08-24 21:29:27,475 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:29:27,715 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:29:28,078 [main] INFO logger_file - User entered email and password
+2023-08-24 21:29:28,228 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:29:28,631 [main] INFO logger_file - User is in account page
+2023-08-24 21:29:28,800 [main] INFO logger_file - The first order was clicked
+2023-08-24 21:29:29,073 [main] INFO logger_file - User clicked on first order
+2023-08-24 21:29:29,233 [main] INFO logger_file - User clicked on return item button
+2023-08-24 21:29:29,452 [main] INFO logger_file - User selected the return reason
+2023-08-24 21:29:29,599 [main] INFO logger_file - User selected the drop off service
+2023-08-24 21:29:29,698 [main] INFO logger_file - User clicked on return order bttn
+2023-08-24 21:29:29,963 [main] INFO logger_file - Return was successful
+2023-08-24 21:29:33,267 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:29:33,462 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:29:33,891 [main] INFO logger_file - User entered email and password
+2023-08-24 21:29:33,993 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:29:34,390 [main] INFO logger_file - User is in account page
+2023-08-24 21:29:34,532 [main] INFO logger_file - User clicked on the orders section
+2023-08-24 21:29:34,913 [main] INFO logger_file - The first order on the list was clicked
+2023-08-24 21:29:35,060 [main] INFO logger_file - Review Bttn was clicked
+2023-08-24 21:29:35,488 [main] INFO logger_file - User wrote review headline
+2023-08-24 21:29:35,624 [main] INFO logger_file - Add your review button was clicked
+2023-08-24 21:29:36,428 [main] INFO logger_file - Review message displayed successfully as: Your review was added successfully
+2023-08-24 21:30:12,407 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:30:12,980 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:30:13,662 [main] INFO logger_file - User entered email and password
+2023-08-24 21:30:13,812 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:30:14,482 [main] INFO logger_file - User is in account page
+2023-08-24 21:30:14,661 [main] INFO logger_file - Category was selected from dropdown
+2023-08-24 21:30:14,901 [main] INFO logger_file - Item name was entered
+2023-08-24 21:30:15,050 [main] INFO logger_file - Search button was clicked
+2023-08-24 21:30:15,373 [main] INFO logger_file - Item clicked
+2023-08-24 21:30:15,746 [main] INFO logger_file - Item quantity was selected
+2023-08-24 21:30:15,917 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-24 21:30:16,146 [main] INFO logger_file - Item qty in the cart was validated
+2023-08-24 21:30:21,543 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:30:21,915 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:30:22,409 [main] INFO logger_file - User entered email and password
+2023-08-24 21:30:22,557 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:30:23,170 [main] INFO logger_file - User is in account page
+2023-08-24 21:30:23,358 [main] INFO logger_file - Category changed to electronics
+2023-08-24 21:30:23,588 [main] INFO logger_file - Iten name was entered
+2023-08-24 21:30:23,753 [main] INFO logger_file - Search button was clicked
+2023-08-24 21:30:24,112 [main] INFO logger_file - Item Apex Legends was clicked
+2023-08-24 21:30:24,683 [main] INFO logger_file - Apex Legends qty was changed
+2023-08-24 21:30:24,832 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-24 21:30:25,008 [main] INFO logger_file - Cart button was clicked
+2023-08-24 21:30:25,267 [main] INFO logger_file - Proceed to ckeck out button was clicked
+2023-08-24 21:30:25,434 [main] INFO logger_file - Place your order button was clicked successfully
+2023-08-24 21:30:26,436 [main] INFO logger_file - Message is: Order Placed Successfully
+2023-08-24 21:30:30,192 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:30:30,482 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:30:31,039 [main] INFO logger_file - User entered email and password
+2023-08-24 21:30:31,245 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:30:31,611 [main] INFO logger_file - User is in account page
+2023-08-24 21:30:31,770 [main] INFO logger_file - Order link was clicked
+2023-08-24 21:30:33,359 [main] INFO logger_file - First order in the list is clicked
+2023-08-24 21:31:33,558 [main] INFO logger_file - Order Cancel button was clicked
+2023-08-24 21:31:33,706 [main] INFO logger_file - Cancelation reason was selected
+2023-08-24 21:31:33,806 [main] INFO logger_file - Cancel Order Button was clicked
+2023-08-24 21:31:34,518 [main] INFO logger_file - Cancelation success message was verified successfully
+2023-08-24 21:31:38,149 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:31:38,647 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:31:39,234 [main] INFO logger_file - User entered email and password
+2023-08-24 21:31:39,380 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:31:39,788 [main] INFO logger_file - User is in account page
+2023-08-24 21:31:40,006 [main] INFO logger_file - Category changed to electronics
+2023-08-24 21:31:40,192 [main] INFO logger_file - Iten name was entered
+2023-08-24 21:31:40,418 [main] INFO logger_file - Search button was clicked
+2023-08-24 21:31:40,953 [main] INFO logger_file - Item Apex Legends was clicked
+2023-08-24 21:31:41,555 [main] INFO logger_file - Apex Legends qty was changed
+2023-08-24 21:31:41,667 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-24 21:31:42,011 [main] INFO logger_file - Cart button was clicked
+2023-08-24 21:31:42,185 [main] INFO logger_file - Proceed to ckeck out button was clicked
+2023-08-24 21:31:42,345 [main] INFO logger_file - Place your order button was clicked successfully
+2023-08-24 21:31:43,346 [main] INFO logger_file - Message is: Order Placed Successfully
+2023-08-24 21:31:48,430 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:31:48,767 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:31:49,396 [main] INFO logger_file - User entered email and password
+2023-08-24 21:31:49,552 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:31:50,135 [main] INFO logger_file - User is in account page
+2023-08-24 21:31:50,347 [main] INFO logger_file - The first order was clicked
+2023-08-24 21:31:50,757 [main] INFO logger_file - User clicked on first order
+2023-08-24 21:31:50,898 [main] INFO logger_file - User clicked on return item button
+2023-08-24 21:31:51,109 [main] INFO logger_file - User selected the return reason
+2023-08-24 21:31:51,273 [main] INFO logger_file - User selected the drop off service
+2023-08-24 21:31:51,398 [main] INFO logger_file - User clicked on return order bttn
+2023-08-24 21:31:51,656 [main] INFO logger_file - Return was successful
+2023-08-24 21:31:55,508 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-24 21:31:55,779 [main] INFO logger_file - User clicked on signin butten
+2023-08-24 21:31:56,289 [main] INFO logger_file - User entered email and password
+2023-08-24 21:31:56,458 [main] INFO logger_file - User clicked on login button
+2023-08-24 21:31:56,883 [main] INFO logger_file - User is in account page
+2023-08-24 21:31:57,067 [main] INFO logger_file - User clicked on the orders section
+2023-08-24 21:31:57,424 [main] INFO logger_file - The first order on the list was clicked
+2023-08-24 21:31:57,603 [main] INFO logger_file - Review Bttn was clicked
+2023-08-24 21:31:58,022 [main] INFO logger_file - User wrote review headline
+2023-08-24 21:31:58,209 [main] INFO logger_file - Add your review button was clicked
+2023-08-24 21:31:59,015 [main] INFO logger_file - Review message displayed successfully as: Your review was added successfully
+2023-08-25 11:39:56,624 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:39:56,810 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 11:39:57,120 [main] INFO logger_file - User entered email and password
+2023-08-25 11:39:57,213 [main] INFO logger_file - User clicked on login button
+2023-08-25 11:39:57,660 [main] INFO logger_file - User is in account page
+2023-08-25 11:39:58,144 [main] INFO logger_file - Name was entered successfully
+2023-08-25 11:39:58,343 [main] INFO logger_file - Phone number was entered successfully
+2023-08-25 11:39:58,436 [main] INFO logger_file - Update butten was clicked
+2023-08-25 11:42:01,595 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:42:01,737 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 11:42:02,041 [main] INFO logger_file - User entered email and password
+2023-08-25 11:42:02,122 [main] INFO logger_file - User clicked on login button
+2023-08-25 11:42:02,473 [main] INFO logger_file - User is in account page
+2023-08-25 11:42:02,811 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-08-25 11:42:03,427 [main] INFO logger_file - Payment Information was added successrully
+2023-08-25 11:42:03,508 [main] INFO logger_file - Payment Method submit bttn clicked successfully
+2023-08-25 11:42:04,320 [main] INFO logger_file - Expected Message: Payment Method added sucessfully
+2023-08-25 11:42:06,826 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:42:06,985 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 11:42:07,290 [main] INFO logger_file - User entered email and password
+2023-08-25 11:42:07,373 [main] INFO logger_file - User clicked on login button
+2023-08-25 11:42:07,741 [main] INFO logger_file - User is in account page
+2023-08-25 11:42:08,426 [main] INFO logger_file - Edit button clicked sucessfully
+2023-08-25 11:42:09,091 [main] INFO logger_file - Information has been edited
+2023-08-25 11:42:09,175 [main] INFO logger_file - Update Card button clicked
+2023-08-25 11:42:10,032 [main] INFO logger_file - Messge is: Payment Method updated Successfully
+2023-08-25 11:42:14,357 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:42:14,483 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 11:42:14,785 [main] INFO logger_file - User entered email and password
+2023-08-25 11:42:14,869 [main] INFO logger_file - User clicked on login button
+2023-08-25 11:42:15,209 [main] INFO logger_file - User is in account page
+2023-08-25 11:42:15,867 [main] INFO logger_file - Remove button clicked
+2023-08-25 11:42:15,899 [main] INFO logger_file - Payment details removed
+2023-08-25 11:42:18,452 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:42:18,596 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 11:42:18,885 [main] INFO logger_file - User entered email and password
+2023-08-25 11:42:18,976 [main] INFO logger_file - User clicked on login button
+2023-08-25 11:42:19,343 [main] INFO logger_file - User is in account page
+2023-08-25 11:42:19,630 [main] INFO logger_file - Add address link was clicked
+2023-08-25 11:42:20,903 [main] INFO logger_file - Address form wass filled
+2023-08-25 11:42:21,000 [main] INFO logger_file - Add your address button was clicked
+2023-08-25 11:42:21,801 [main] INFO logger_file - Message is: Address Added Successfully
+2023-08-25 11:42:24,421 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:42:24,559 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 11:42:24,845 [main] INFO logger_file - User entered email and password
+2023-08-25 11:42:24,931 [main] INFO logger_file - User clicked on login button
+2023-08-25 11:42:25,268 [main] INFO logger_file - User is in account page
+2023-08-25 11:42:26,142 [main] INFO logger_file - User clicked on edit address button
+2023-08-25 11:42:27,383 [main] INFO logger_file - User edited the new address information
+2023-08-25 11:42:27,463 [main] INFO logger_file - Update button was clicked
+2023-08-25 11:42:28,499 [main] INFO logger_file - Message is: Address Updated Successfully
+2023-08-25 11:42:31,073 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:42:31,216 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 11:42:31,512 [main] INFO logger_file - User entered email and password
+2023-08-25 11:42:31,599 [main] INFO logger_file - User clicked on login button
+2023-08-25 11:42:31,962 [main] INFO logger_file - User is in account page
+2023-08-25 11:42:32,606 [main] INFO logger_file - Remove option of address section was clicked
+2023-08-25 11:42:32,642 [main] INFO logger_file - Address removed successfully
+2023-08-25 11:51:01,669 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:51:01,797 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 11:51:02,120 [main] INFO logger_file - User entered email and password
+2023-08-25 11:51:02,208 [main] INFO logger_file - User clicked on login button
+2023-08-25 11:51:02,954 [main] INFO logger_file - User is in account page
+2023-08-25 11:51:03,342 [main] INFO logger_file - Name was entered successfully
+2023-08-25 11:51:03,608 [main] INFO logger_file - Phone number was entered successfully
+2023-08-25 11:51:03,728 [main] INFO logger_file - Update butten was clicked
+2023-08-25 11:51:04,534 [main] INFO logger_file - Account information was updated successfully
+2023-08-25 11:51:07,196 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:51:07,333 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 11:51:07,634 [main] INFO logger_file - User entered email and password
+2023-08-25 11:51:07,717 [main] INFO logger_file - User clicked on login button
+2023-08-25 11:51:08,070 [main] INFO logger_file - User is in account page
+2023-08-25 11:51:08,380 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-08-25 11:51:08,949 [main] INFO logger_file - Payment Information was added successrully
+2023-08-25 11:51:09,040 [main] INFO logger_file - Payment Method submit bttn clicked successfully
+2023-08-25 11:51:09,898 [main] INFO logger_file - Expected Message: Payment Method added sucessfully
+2023-08-25 11:51:12,506 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:51:12,628 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 11:51:12,924 [main] INFO logger_file - User entered email and password
+2023-08-25 11:51:13,008 [main] INFO logger_file - User clicked on login button
+2023-08-25 11:51:13,372 [main] INFO logger_file - User is in account page
+2023-08-25 11:51:14,267 [main] INFO logger_file - Edit button clicked sucessfully
+2023-08-25 11:51:14,932 [main] INFO logger_file - Information has been edited
+2023-08-25 11:51:15,016 [main] INFO logger_file - Update Card button clicked
+2023-08-25 11:51:15,867 [main] INFO logger_file - Messge is: Payment Method updated Successfully
+2023-08-25 11:51:19,692 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:51:19,814 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 11:51:20,118 [main] INFO logger_file - User entered email and password
+2023-08-25 11:51:20,203 [main] INFO logger_file - User clicked on login button
+2023-08-25 11:51:20,554 [main] INFO logger_file - User is in account page
+2023-08-25 11:51:21,221 [main] INFO logger_file - Remove button clicked
+2023-08-25 11:51:21,255 [main] INFO logger_file - Payment details removed
+2023-08-25 11:51:23,685 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:51:23,823 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 11:51:24,140 [main] INFO logger_file - User entered email and password
+2023-08-25 11:51:24,217 [main] INFO logger_file - User clicked on login button
+2023-08-25 11:51:24,565 [main] INFO logger_file - User is in account page
+2023-08-25 11:51:24,880 [main] INFO logger_file - Add address link was clicked
+2023-08-25 11:51:26,273 [main] INFO logger_file - Address form wass filled
+2023-08-25 11:51:26,370 [main] INFO logger_file - Add your address button was clicked
+2023-08-25 11:51:27,164 [main] INFO logger_file - Message is: Address Added Successfully
+2023-08-25 11:51:29,581 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:51:29,707 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 11:51:29,980 [main] INFO logger_file - User entered email and password
+2023-08-25 11:51:30,065 [main] INFO logger_file - User clicked on login button
+2023-08-25 11:51:30,409 [main] INFO logger_file - User is in account page
+2023-08-25 11:51:31,010 [main] INFO logger_file - User clicked on edit address button
+2023-08-25 11:51:32,280 [main] INFO logger_file - User edited the new address information
+2023-08-25 11:51:32,367 [main] INFO logger_file - Update button was clicked
+2023-08-25 11:51:33,280 [main] INFO logger_file - Message is: Address Updated Successfully
+2023-08-25 11:51:37,501 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:51:37,641 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 11:51:37,912 [main] INFO logger_file - User entered email and password
+2023-08-25 11:51:37,994 [main] INFO logger_file - User clicked on login button
+2023-08-25 11:51:38,331 [main] INFO logger_file - User is in account page
+2023-08-25 11:51:38,923 [main] INFO logger_file - Remove option of address section was clicked
+2023-08-25 11:51:38,952 [main] INFO logger_file - Address removed successfully
+2023-08-25 11:52:52,699 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:52:52,889 [main] INFO logger_file - All options clickd
+2023-08-25 11:52:52,947 [main] INFO logger_file - Electronics is present
+2023-08-25 11:52:52,980 [main] INFO logger_file - Computers is present
+2023-08-25 11:52:53,010 [main] INFO logger_file - Smart Home is present
+2023-08-25 11:52:53,044 [main] INFO logger_file - Sports is present
+2023-08-25 11:52:53,088 [main] INFO logger_file - Automative is present
+2023-08-25 11:52:55,688 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:52:55,823 [main] INFO logger_file - All options clickd
+2023-08-25 11:52:56,079 [main] INFO logger_file - The option TV & Video is present
+2023-08-25 11:52:56,160 [main] INFO logger_file - The option Video Games is present
+2023-08-25 11:53:00,287 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:53:00,446 [main] INFO logger_file - All options clickd
+2023-08-25 11:53:00,777 [main] INFO logger_file - The option Accessories is present
+2023-08-25 11:53:00,902 [main] INFO logger_file - The option Networking is present
+2023-08-25 11:53:03,426 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:53:03,567 [main] INFO logger_file - All options clickd
+2023-08-25 11:53:03,894 [main] INFO logger_file - The option Smart Home Lightning is present
+2023-08-25 11:53:03,982 [main] INFO logger_file - The option Plugs and Outlets is present
+2023-08-25 11:53:06,679 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:53:06,826 [main] INFO logger_file - All options clickd
+2023-08-25 11:53:07,263 [main] INFO logger_file - The option Athletic Clothing is present
+2023-08-25 11:53:07,382 [main] INFO logger_file - The option Exercise & Fitness is present
+2023-08-25 11:53:09,945 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:53:10,094 [main] INFO logger_file - All options clickd
+2023-08-25 11:54:35,043 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:54:35,176 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 11:54:35,488 [main] INFO logger_file - User entered email and password
+2023-08-25 11:54:35,577 [main] INFO logger_file - User clicked on login button
+2023-08-25 11:54:35,945 [main] INFO logger_file - User is in account page
+2023-08-25 11:54:40,064 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 11:54:40,197 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 11:54:40,299 [main] INFO logger_file - New account buttun is clicked
+2023-08-25 11:54:40,731 [main] INFO logger_file - User filled the signUp information
+2023-08-25 11:54:40,846 [main] INFO logger_file - Uer clicked on signup buttu
+2023-08-25 11:54:41,210 [main] INFO logger_file - User is into account page
+2023-08-25 20:28:37,711 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:28:37,877 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 20:28:38,221 [main] INFO logger_file - User entered email and password
+2023-08-25 20:28:38,324 [main] INFO logger_file - User clicked on login button
+2023-08-25 20:28:39,060 [main] INFO logger_file - User is in account page
+2023-08-25 20:28:39,532 [main] INFO logger_file - Name was entered successfully
+2023-08-25 20:28:39,836 [main] INFO logger_file - Phone number was entered successfully
+2023-08-25 20:28:39,942 [main] INFO logger_file - Update butten was clicked
+2023-08-25 20:28:40,827 [main] INFO logger_file - Account information was updated successfully
+2023-08-25 20:28:43,616 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:28:43,764 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 20:28:44,117 [main] INFO logger_file - User entered email and password
+2023-08-25 20:28:44,215 [main] INFO logger_file - User clicked on login button
+2023-08-25 20:28:44,564 [main] INFO logger_file - User is in account page
+2023-08-25 20:28:44,918 [main] INFO logger_file - Add Payment Method link was clicked successfully
+2023-08-25 20:28:45,774 [main] INFO logger_file - Payment Information was added successrully
+2023-08-25 20:28:45,893 [main] INFO logger_file - Payment Method submit bttn clicked successfully
+2023-08-25 20:28:46,699 [main] INFO logger_file - Expected Message: Payment Method added sucessfully
+2023-08-25 20:28:49,503 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:28:49,641 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 20:28:50,017 [main] INFO logger_file - User entered email and password
+2023-08-25 20:28:50,131 [main] INFO logger_file - User clicked on login button
+2023-08-25 20:28:50,504 [main] INFO logger_file - User is in account page
+2023-08-25 20:28:51,432 [main] INFO logger_file - Edit button clicked sucessfully
+2023-08-25 20:28:52,340 [main] INFO logger_file - Information has been edited
+2023-08-25 20:28:52,484 [main] INFO logger_file - Update Card button clicked
+2023-08-25 20:28:53,336 [main] INFO logger_file - Messge is: Payment Method updated Successfully
+2023-08-25 20:28:57,557 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:28:57,690 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 20:28:58,033 [main] INFO logger_file - User entered email and password
+2023-08-25 20:28:58,134 [main] INFO logger_file - User clicked on login button
+2023-08-25 20:28:58,488 [main] INFO logger_file - User is in account page
+2023-08-25 20:28:59,298 [main] INFO logger_file - Remove button clicked
+2023-08-25 20:28:59,335 [main] INFO logger_file - Payment details removed
+2023-08-25 20:29:02,521 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:29:02,675 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 20:29:03,054 [main] INFO logger_file - User entered email and password
+2023-08-25 20:29:03,180 [main] INFO logger_file - User clicked on login button
+2023-08-25 20:29:03,560 [main] INFO logger_file - User is in account page
+2023-08-25 20:29:03,933 [main] INFO logger_file - Add address link was clicked
+2023-08-25 20:29:05,899 [main] INFO logger_file - Address form wass filled
+2023-08-25 20:29:06,048 [main] INFO logger_file - Add your address button was clicked
+2023-08-25 20:29:06,852 [main] INFO logger_file - Message is: Address Added Successfully
+2023-08-25 20:29:09,596 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:29:09,748 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 20:29:10,088 [main] INFO logger_file - User entered email and password
+2023-08-25 20:29:10,185 [main] INFO logger_file - User clicked on login button
+2023-08-25 20:29:10,541 [main] INFO logger_file - User is in account page
+2023-08-25 20:29:11,133 [main] INFO logger_file - User clicked on edit address button
+2023-08-25 20:29:13,022 [main] INFO logger_file - User edited the new address information
+2023-08-25 20:29:13,116 [main] INFO logger_file - Update button was clicked
+2023-08-25 20:29:13,979 [main] INFO logger_file - Message is: Address Updated Successfully
+2023-08-25 20:29:16,591 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:29:16,740 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 20:29:17,085 [main] INFO logger_file - User entered email and password
+2023-08-25 20:29:17,198 [main] INFO logger_file - User clicked on login button
+2023-08-25 20:29:17,569 [main] INFO logger_file - User is in account page
+2023-08-25 20:29:18,077 [main] INFO logger_file - Remove option of address section was clicked
+2023-08-25 20:29:18,106 [main] INFO logger_file - Address removed successfully
+2023-08-25 20:29:20,771 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:29:20,911 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 20:29:21,283 [main] INFO logger_file - User entered email and password
+2023-08-25 20:29:21,381 [main] INFO logger_file - User clicked on login button
+2023-08-25 20:29:21,886 [main] INFO logger_file - User is in account page
+2023-08-25 20:29:22,124 [main] INFO logger_file - Category was selected from dropdown
+2023-08-25 20:29:22,380 [main] INFO logger_file - Item name was entered
+2023-08-25 20:29:22,583 [main] INFO logger_file - Search button was clicked
+2023-08-25 20:29:22,897 [main] INFO logger_file - Item clicked
+2023-08-25 20:29:23,277 [main] INFO logger_file - Item quantity was selected
+2023-08-25 20:29:23,473 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-25 20:29:23,692 [main] INFO logger_file - Item qty in the cart was validated
+2023-08-25 20:29:28,081 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:29:28,218 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 20:29:28,556 [main] INFO logger_file - User entered email and password
+2023-08-25 20:29:28,645 [main] INFO logger_file - User clicked on login button
+2023-08-25 20:29:29,010 [main] INFO logger_file - User is in account page
+2023-08-25 20:29:29,163 [main] INFO logger_file - Category changed to electronics
+2023-08-25 20:29:29,277 [main] INFO logger_file - Iten name was entered
+2023-08-25 20:29:29,395 [main] INFO logger_file - Search button was clicked
+2023-08-25 20:29:29,849 [main] INFO logger_file - Item Apex Legends was clicked
+2023-08-25 20:29:30,326 [main] INFO logger_file - Apex Legends qty was changed
+2023-08-25 20:29:30,490 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-25 20:29:30,654 [main] INFO logger_file - Cart button was clicked
+2023-08-25 20:29:30,814 [main] INFO logger_file - Proceed to ckeck out button was clicked
+2023-08-25 20:29:30,924 [main] INFO logger_file - Place your order button was clicked successfully
+2023-08-25 20:29:31,926 [main] INFO logger_file - Message is: Order Placed Successfully
+2023-08-25 20:29:34,924 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:29:35,089 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 20:29:35,440 [main] INFO logger_file - User entered email and password
+2023-08-25 20:29:35,541 [main] INFO logger_file - User clicked on login button
+2023-08-25 20:29:35,894 [main] INFO logger_file - User is in account page
+2023-08-25 20:29:36,035 [main] INFO logger_file - Order link was clicked
+2023-08-25 20:29:37,367 [main] INFO logger_file - First order in the list is clicked
+2023-08-25 20:30:37,527 [main] INFO logger_file - Order Cancel button was clicked
+2023-08-25 20:30:37,663 [main] INFO logger_file - Cancelation reason was selected
+2023-08-25 20:30:37,797 [main] INFO logger_file - Cancel Order Button was clicked
+2023-08-25 20:30:38,084 [main] INFO logger_file - Cancelation success message was verified successfully
+2023-08-25 20:30:40,807 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:30:40,966 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 20:30:41,298 [main] INFO logger_file - User entered email and password
+2023-08-25 20:30:41,404 [main] INFO logger_file - User clicked on login button
+2023-08-25 20:30:41,784 [main] INFO logger_file - User is in account page
+2023-08-25 20:30:41,954 [main] INFO logger_file - Category changed to electronics
+2023-08-25 20:30:42,102 [main] INFO logger_file - Iten name was entered
+2023-08-25 20:30:42,224 [main] INFO logger_file - Search button was clicked
+2023-08-25 20:30:42,572 [main] INFO logger_file - Item Apex Legends was clicked
+2023-08-25 20:30:43,059 [main] INFO logger_file - Apex Legends qty was changed
+2023-08-25 20:30:43,212 [main] INFO logger_file - Add item to the cart button was selected
+2023-08-25 20:30:43,513 [main] INFO logger_file - Cart button was clicked
+2023-08-25 20:30:43,725 [main] INFO logger_file - Proceed to ckeck out button was clicked
+2023-08-25 20:30:43,873 [main] INFO logger_file - Place your order button was clicked successfully
+2023-08-25 20:30:44,945 [main] INFO logger_file - Message is: Order Placed Successfully
+2023-08-25 20:30:47,649 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:30:47,788 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 20:30:48,145 [main] INFO logger_file - User entered email and password
+2023-08-25 20:30:48,245 [main] INFO logger_file - User clicked on login button
+2023-08-25 20:30:48,613 [main] INFO logger_file - User is in account page
+2023-08-25 20:30:48,749 [main] INFO logger_file - The first order was clicked
+2023-08-25 20:30:49,354 [main] INFO logger_file - User clicked on first order
+2023-08-25 20:30:49,509 [main] INFO logger_file - User clicked on return item button
+2023-08-25 20:30:49,642 [main] INFO logger_file - User selected the return reason
+2023-08-25 20:30:49,798 [main] INFO logger_file - User selected the drop off service
+2023-08-25 20:30:49,885 [main] INFO logger_file - User clicked on return order bttn
+2023-08-25 20:30:50,145 [main] INFO logger_file - Return was successful
+2023-08-25 20:30:52,717 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:30:52,862 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 20:30:53,220 [main] INFO logger_file - User entered email and password
+2023-08-25 20:30:53,300 [main] INFO logger_file - User clicked on login button
+2023-08-25 20:30:53,690 [main] INFO logger_file - User is in account page
+2023-08-25 20:30:53,805 [main] INFO logger_file - User clicked on the orders section
+2023-08-25 20:30:54,227 [main] INFO logger_file - The first order on the list was clicked
+2023-08-25 20:30:54,375 [main] INFO logger_file - Review Bttn was clicked
+2023-08-25 20:30:54,643 [main] INFO logger_file - User wrote review headline
+2023-08-25 20:30:54,796 [main] INFO logger_file - Add your review button was clicked
+2023-08-25 20:30:55,578 [main] INFO logger_file - Review message displayed successfully as: Your review was added successfully
+2023-08-25 20:30:59,915 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:31:00,060 [main] INFO logger_file - All options clickd
+2023-08-25 20:31:00,183 [main] INFO logger_file - Electronics is present
+2023-08-25 20:31:00,218 [main] INFO logger_file - Computers is present
+2023-08-25 20:31:00,247 [main] INFO logger_file - Smart Home is present
+2023-08-25 20:31:00,290 [main] INFO logger_file - Sports is present
+2023-08-25 20:31:00,340 [main] INFO logger_file - Automative is present
+2023-08-25 20:31:03,080 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:31:03,229 [main] INFO logger_file - All options clickd
+2023-08-25 20:31:03,462 [main] INFO logger_file - The option TV & Video is present
+2023-08-25 20:31:03,553 [main] INFO logger_file - The option Video Games is present
+2023-08-25 20:31:06,387 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:31:06,513 [main] INFO logger_file - All options clickd
+2023-08-25 20:31:06,917 [main] INFO logger_file - The option Accessories is present
+2023-08-25 20:31:07,005 [main] INFO logger_file - The option Networking is present
+2023-08-25 20:31:11,145 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:31:11,351 [main] INFO logger_file - All options clickd
+2023-08-25 20:31:11,685 [main] INFO logger_file - The option Smart Home Lightning is present
+2023-08-25 20:31:11,792 [main] INFO logger_file - The option Plugs and Outlets is present
+2023-08-25 20:31:14,335 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:31:14,518 [main] INFO logger_file - All options clickd
+2023-08-25 20:31:14,947 [main] INFO logger_file - The option Athletic Clothing is present
+2023-08-25 20:31:15,079 [main] INFO logger_file - The option Exercise & Fitness is present
+2023-08-25 20:31:17,984 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:31:18,161 [main] INFO logger_file - All options clickd
+2023-08-25 20:31:21,569 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:31:21,703 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 20:31:22,020 [main] INFO logger_file - User entered email and password
+2023-08-25 20:31:22,113 [main] INFO logger_file - User clicked on login button
+2023-08-25 20:31:22,461 [main] INFO logger_file - User is in account page
+2023-08-25 20:31:25,255 [main] INFO logger_file - TekSchool logo is displayed
+2023-08-25 20:31:25,380 [main] INFO logger_file - User clicked on signin butten
+2023-08-25 20:31:25,507 [main] INFO logger_file - New account buttun is clicked
+2023-08-25 20:31:26,028 [main] INFO logger_file - User filled the signUp information
+2023-08-25 20:31:26,120 [main] INFO logger_file - Uer clicked on signup buttu
+2023-08-25 20:31:26,530 [main] INFO logger_file - User is into account page
