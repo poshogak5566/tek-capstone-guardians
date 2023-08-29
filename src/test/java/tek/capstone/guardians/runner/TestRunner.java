@@ -16,7 +16,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 		plugin = {
 				"pretty",
 				"html:target/htmlReports/cucumber-pretty.html",
-				"json:target/jasonReports/cucuber.json"
+				"json:target/jsonReports/cucumber.json"
 		},
 		
 		snippets = CAMELCASE,

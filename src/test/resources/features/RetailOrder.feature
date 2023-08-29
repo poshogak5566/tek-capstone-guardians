@@ -1,5 +1,5 @@
 @Smoke
-Feature: Retail Account Page
+Feature: Retail Order Page
 
 Background: 
     Given User is on retail website
