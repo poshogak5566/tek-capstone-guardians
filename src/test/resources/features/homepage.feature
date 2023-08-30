@@ -15,6 +15,7 @@ Feature: Home Page
     And User on <department>
     Then below options are present in department
       | <optionOne> | <optionTwo> |
+
     Examples: 
       | department    | optionOne                      | optionTwo                |
       | 'Electronics' | TV & Video                     | Video Games              |

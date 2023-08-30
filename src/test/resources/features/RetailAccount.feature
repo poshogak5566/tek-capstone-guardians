@@ -19,7 +19,7 @@ Feature: Retail Account page
   Scenario: Verify User can add a payment method
     And User click on Add a payment method link
     And User fill Debit or credit card information
-      | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
+      | cardNumber | nameOnCard | expirationMonth | expirationYear | securityCode |
       | cardNumber | Chase      |              12 |           2024 |          656 |
     And User click on Add your card button
     Then a message should be displayed "Payment Method added sucessfully"
@@ -28,7 +28,7 @@ Feature: Retail Account page
   Scenario: Verify User can edit Debit or Credit card
     And User click on Edit option of card section
     And user edit information with below data
-      | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
+      | cardNumber | nameOnCard | expirationMonth | expirationYear | securityCode |
       | cardNumber | Chase      |              10 |           2025 |          698 |
     And user click on Update Your Card button
     Then message should be displayed 'Payment Method updated Successfully'
@@ -51,12 +51,12 @@ Feature: Retail Account page
   Scenario: Verify User can edit an Address added on account
     And User click on edit address option
     And user edit new address form with below information
-      | country      | fullName      | phoneNumber | streetAddress | apt      | city      | state      | zipCode      |
-      | United States | QudsiaAhmadi | phoneNumber  | 3456     | 111 | ElkGrove | California | zipcode |
+      | country       | fullName     | phoneNumber | streetAddress | apt | city     | state      | zipCode |
+      | United States | QudsiaAhmadi | phoneNumber |          3456 | 111 | ElkGrove | California | zipcode |
     And User click update Your Address button
     Then messages should be displayed 'Address Updated Successfully'
-    
-    @removeAddrsFromAcct
-    Scenario: Verify User can remove Address from Account
+
+  @removeAddrsFromAcct
+  Scenario: Verify User can remove Address from Account
     And User click on remove option of Address section
     Then Address details should be removed

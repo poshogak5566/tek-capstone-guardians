@@ -15,7 +15,7 @@ Feature: Sign in Feature
   Scenario: Verify user can create an account into Retail Website
     And User click on Create New Account button
     And User fill the signUp information with below data
-      | name   | email                         | password       | confirmPassword |
-      | Qudsia | email| Qudsia@7869916 | Qudsia@7869916  |
+      | name   | email | password       | confirmPassword |
+      | Qudsia | email | Qudsia@7869916 | Qudsia@7869916  |
     And User click on SignUp button
     Then User should be logged into account page

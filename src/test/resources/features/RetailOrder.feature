@@ -1,15 +1,15 @@
 @Smoke
 Feature: Retail Order Page
 
-Background: 
+  Background: 
     Given User is on retail website
     When User click on Sign in option
     And User enter email 'Qudsia.yousefzai@tekschool.us' and password 'Qudsia@7869916'
     And User click on login button
     Then User should be logged in into Account
-    
-@addItemToCard   
-Scenario: Verify User can add an item to cart
+
+  @addItemToCard
+  Scenario: Verify User can add an item to cart
     And User change the category to 'Smart Home'
     And User search for an item 'kasa outdoor smart plug'
     And User click on Search icon
@@ -17,9 +17,9 @@ Scenario: Verify User can add an item to cart
     And User select quantity '2'
     And User click add to Cart button
     Then the cart icon quantity should change to '2'
-    
-  @addItemToCartAndCheckout  
- Scenario: Verify User can place an order with Shipping address and payment Method on file
+
+  @addItemToCartAndCheckout
+  Scenario: Verify User can place an order with Shipping address and payment Method on file
     And User change the category to 'Electronics' Apex Legends
     And User search for an item 'Apex Legends' Apex Legends
     And User click on Search icon
@@ -31,18 +31,18 @@ Scenario: Verify User can add an item to cart
     And User click on Proceed to Checkout button
     And User click on Place Your Order
     Then A message should be displayed 'Order Placed Successfully'
-    
-    @cancelOrder
-    Scenario: Verify User can cancel the order
+
+  @cancelOrder
+  Scenario: Verify User can cancel the order
     And User click on Orders section
     And User click on first order in list
     And User click on Cancel The Order button
     And User select the cancelation Reason 'Bought wrong item'
     And User click on Cancel Order button
     Then a cancelation message should be displayed 'Your Order Has Been Cancelled'
-    
-     @addItemToCartAndCheckout  
- Scenario: Verify User can place an order with Shipping address and payment Method on file
+
+  @addItemToCartAndCheckout
+  Scenario: Verify User can place an order with Shipping address and payment Method on file
     And User change the category to 'Electronics' Apex Legends
     And User search for an item 'Apex Legends' Apex Legends
     And User click on Search icon
@@ -54,10 +54,9 @@ Scenario: Verify User can add an item to cart
     And User click on Proceed to Checkout button
     And User click on Place Your Order
     Then A message should be displayed 'Order Placed Successfully'
-    
-   
-    @returnOrder
-    Scenario: Verify User can Return the order
+
+  @returnOrder
+  Scenario: Verify User can Return the order
     And User clicks on Orders section
     And User clicks on first order in list
     And User click on Return Items button
@@ -65,24 +64,12 @@ Scenario: Verify User can add an item to cart
     And User select the drop off service 'FedEx'
     And User click on Return Order button
     Then cancelation message should be displayed 'Return was successful'
-    
-    
-    @reviewOnOrderPlaced
-    Scenario: Verify User can write a review on order placed
+
+  @reviewOnOrderPlaced
+  Scenario: Verify User can write a review on order placed
     And User click on the Orders section
     And User click on the first order in list
     And User click on Review button
     And User write Review headline 'headline value' and 'review text'
     And User click Add your Review button
     Then a review message should be displayed 'Your review was added successfully'
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-       
